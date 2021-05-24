@@ -38,3 +38,18 @@
 .privateChannels-1nO12o .privateChannelsHeaderContainer-3NB1K1:hover {
   background: var(--gr-one);
 }
+/*message logger*/
+.focusLock-Ns3yie .footer-2gL1pp {
+  background-color: var(--message-logger-footer) !important;
+}
+.focusLock-Ns3yie .flex-1xMQg5 {
+  background-color: var(--message-logger-top-part);
+}
+.focusLock-Ns3yie .scrollerBase-289Jih {
+  background-color: var(--message-logger-list);
+}
+/*dateViewer*/
+#dv-mount {
+  max-height: 65px;
+  background-color: var(--back-date-viewer) !important;
+}
