@@ -1,0 +1,21 @@
+/* 1. User Settings */
+/* 1.a. General Sidebar */
+.standardSidebarView-3F1I7i .sidebarRegion-VFTUkN {
+  -ms-flex: 0;
+  -ms-flex-pack: end;
+  flex: 0;
+  z-index: 1;
+}
+/* 1.b. General Content Area */
+.standardSidebarView-3F1I7i .contentColumnDefault-1VQkGM {
+  padding: 20px 40px 80px;
+}
+.standardSidebarView-3F1I7i .contentColumn-2hrIYH, 
+.standardSidebarView-3F1I7i .customColumn-Rb6toI {
+  -ms-flex: 1 1 auto;
+  -webkit-box-flex: 1;
+  flex: 1 1 auto;
+  max-width: 100%;
+  min-height: 100%;
+  min-width: 460px;
+}
