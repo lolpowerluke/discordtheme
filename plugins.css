@@ -1,0 +1,25 @@
+/* ImageUtilities */
+.zoomLens-uOK8xV {
+	border-color: var(--border-zoom) !important;
+}
+.message-2qnXI6 .flexChild-faoVW3 {
+  
+    font-size: 0.85rem !important;
+    background-color: var(--image-utils-back)!important;
+    line-height: 1.125rem !important;
+    vertical-align: middle !important;
+    margin-right: 3px !important;
+    border: solid 1px var(--image-utils-border) !important;
+    padding: 2px 4px !important;
+    margin-left: 0 !important;
+    flex: unset !important;
+}
+.message-2qnXI6 a.flexChild-faoVW3 {
+    border-color: var(--text-link) !important;
+    background-color: var(--text-link-back) !important;
+}
+/*platform indicator*/
+.PI-indicatorContainer svg[style*="color: rgb(59, 165, 92);"] {color: var(--rs-online-color) !important;}
+.PI-indicatorContainer svg[style*="color: rgb(250, 166, 26);"] {color: var(--rs-idle-color) !important;}
+.PI-indicatorContainer svg[style*="color: rgb(237, 66, 69);"] {color: var(--rs-dnd-color) !important;}
+.PI-indicatorContainer svg[style*="#747f8d"] {color: var(--rs-streaming-color) !important;}
