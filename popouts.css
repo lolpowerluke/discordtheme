@@ -1,0 +1,87 @@
+
+/* 2. Popouts */
+.header-2-Imhb {
+  background-color: var(--popout-header);
+}
+.messagesPopout-24nkyi {
+  background-color: var(--popout-scroller);
+}
+.container-1CE3eW {
+  background-color: var(--create-server);
+}
+/* 2.a. Emoji & Gif */
+.nav-7UD0KD {
+  background-color: var(--back-header-gifemoji);
+  height: 24px;
+  border-radius: 10px;
+  border: 1px solid var(--border-gifemoji);
+}
+.wrapper-2Gsate {
+  background-color: var(--back-side-gifemoji);
+  border: 1px solid var(--border-gifemoji);
+  border-radius: 10px;
+}
+.header-1TOWci,
+.header-8ilj5e {
+  background-color: var(--back-search-gifemoji);
+  border: 1px solid var(--border-gifemoji);
+  border-radius: 10px;
+  padding: 0 10px 8px !important;
+  margin-bottom: 7px;
+}
+.bd-emote-menu,
+.content-ySCtCx {
+  margin-left: 0px !important;
+}
+.bd-emote-menu,
+.content-ySCtCx,
+.bodyWrapper-3G0FZZ {
+  background-color: var(--back-body-gifemoji);
+  border: 1px solid var(--border-gifemoji);
+  border-radius: 10px;
+  margin-left: 8px;
+}
+.inspector-S2gM3e {
+  background-color: var(--back-inspector-gifemoji);
+  border: 1px solid var(--border-gifemoji);
+  border-radius: 10px;
+  margin-left: 8px;
+  margin-top: 8px;
+  width: auto;
+}
+/* 2.b. Changelog */
+.focusLock-Ns3yie .scrollerBase-289Jih {
+  border-radius: 0px;
+}
+/* 2.c. Create Server */
+.container-1CE3eW .content-1LAB8Z,
+.container-1CE3eW .flex-1xMQg5 {
+  background: transparent !important;
+}
+.container-UC8Ug1 {
+  background-color: var(--create-server-choices);
+  border: 1px solid var(--create-server-choices-border);
+}
+.colorHeaderSecondary-3Sp3Ft,
+.footerTitle-2CYZch,
+.text-1FOLJS,
+.title-3w8xhj {
+  color: var(--create-server-text-color);
+}
+.footerButton-ayFTfX {
+  background-color: var(--create-server-footer-button) !important;
+}
+.footerButton-ayFTfX:hover {
+  background-color: var(--create-server-footer-button-hover) !important;
+}
+/* 2.d. Upload Popout */
+.footer-3mqk7D {
+  background-color: var(--upload-popout-footer) !important;
+}
+.inner-3nWsbo {
+  background-color: var(--upload-popout-top);
+  margin-top: 0px !important;
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+  margin-bottom: 0px !important;
+}
