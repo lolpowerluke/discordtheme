@@ -23,3 +23,18 @@
 .PI-indicatorContainer svg[style*="color: rgb(250, 166, 26);"] {color: var(--rs-idle-color) !important;}
 .PI-indicatorContainer svg[style*="color: rgb(237, 66, 69);"] {color: var(--rs-dnd-color) !important;}
 .PI-indicatorContainer svg[style*="#747f8d"] {color: var(--rs-streaming-color) !important;}
+/*pin DMs*/
+.privateChannels-1nO12o .privateChannelsHeaderContainer-3NB1K1 .clickable-3rdHwn,
+.privateChannels-1nO12o .privateChannelsHeaderContainer-3NB1K1 .numberBadge-2s8kKX,
+.privateChannels-1nO12o .privateChannelsHeaderContainer-3NB1K1 .headerText-2F0828 {
+  margin-top: -10px;
+  margin-bottom: 10px;
+  height: 15px;
+  border-radius: 20px;
+}
+.privateChannels-1nO12o .privateChannelsHeaderContainer-3NB1K1 {
+  height: 30px;
+}
+.privateChannels-1nO12o .privateChannelsHeaderContainer-3NB1K1:hover {
+  background: var(--gr-one);
+}
