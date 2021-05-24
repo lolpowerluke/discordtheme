@@ -1,0 +1,42 @@
+
+/* 6. message separators */
+/* 6.a. unread */
+.isUnread-3Ef-o9 {
+  border-color: transparent;
+}
+.unreadPillCapStroke-7rkHbg {
+  fill: transparent;
+  color: transparent;
+}
+#app-mount .divider-JfaTT5.isUnread-3Ef-o9 .unreadPillCap-3_K2q2 {
+  display: none
+}
+#app-mount .divider-JfaTT5.isUnread-3Ef-o9:after {
+  margin-left: 30px;
+  background: linear-gradient(to right, var(--unread-message-line) 50%, transparent);
+}
+.unreadPill-2HyYtt {
+  display: flex !important;
+  color: var(--unread-message) !important;
+}
+/* 6.b. time stamp divider */
+#app-mount .divider-JfaTT5.isUnread-3Ef-o9 span {
+  display: none;
+}
+#app-mount .divider-JfaTT5 span {
+  left: 0;
+  right: unset;
+  background: transparent;
+  display: flex;
+  flex-flow: row wrap;
+  color: var(--message-separator);
+}
+#app-mount .divider-JfaTT5:after {
+  content: "";
+  position: relative;
+  flex: 1 0 auto;
+  margin-left: 5px;
+  height: 1px;
+  border: 1px;
+  background: linear-gradient(to right, var(--message-separator-line) 50%, transparent);
+}
