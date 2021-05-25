@@ -16,23 +16,3 @@
   clip-path: polygon(var(--cp-size) 0, 100% 0, 100% calc(100% - var(--cp-size)), calc(100% - var(--cp-size)) 100%, 0 100%, 0 var(--cp-size));
   --cp-size: 6px;
 }
-.lookFilled-1Gx00P.colorRed-1TFJan:hover {
-  background-color: var(--red-2) !important;
-}
-/*userbuttons in side panel*/
-.panels-j1Uci_ > .container-3baos1 > .flex-1xMQg5 {
-  position: fixed;
-  bottom: 0px;
-  left: 0px;
-  width: 72px;
-  z-index: 1;
-  padding: 20px 0 10px 0;
-  flex-direction: column;
-  background: linear-gradient(transparent, var(--back-user-buttons) 15%);
-}
-.panels-j1Uci_ > .container-3baos1 > .flex-1xMQg5 > .button-14-BFJ {
-  margin: var(--user-buttons-spacing) auto 0 auto;
-}
-.content-3YMskv {
-  height: 955px !important;
-}
