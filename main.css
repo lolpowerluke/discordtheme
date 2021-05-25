@@ -21,3 +21,22 @@
   8. Plugins */ 
   @import url('https://lolpowerluke.github.io/discordtheme/plugins.css'); /*
 */
+
+/*account background*/
+.activityPanel-28dQGo,
+.container-1giJp5,
+.container-6sXIoE,
+.container-3baos1{
+  background: var(--back-account);
+  margin-bottom: 0;
+}
+/*background*/
+.applicationStore-1pNvnv,
+.container-3Mxszk,
+.layer-3QrUeG[aria-label="USER_SETTINGS"],
+.pageWrapper-1PgVDX,
+.content-yTz4x3,
+.tabBody-3YRQ8W {
+    background: var(--main-background);
+    background-color: var(--back-color) !important;
+}
