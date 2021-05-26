@@ -1,0 +1,35 @@
+/*userbuttons in side panel*/
+.panels-j1Uci_ > .container-3baos1 > .flex-1xMQg5 {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  width: 72px;
+  z-index: 1;
+  padding: 20px 0 10px 0;
+  flex-direction: column;
+  background: linear-gradient(transparent, var(--back-user-buttons) 15%);
+}
+.panels-j1Uci_ > .container-3baos1 > .flex-1xMQg5 > .button-14-BFJ {
+  margin: var(--user-buttons-spacing) auto 0 auto;
+}
+.content-3YMskv {
+  height: 850px !important;
+}
+/*account background*/
+.activityPanel-28dQGo,
+.container-1giJp5,
+.container-6sXIoE,
+.container-3baos1{
+  background: var(--back-account);
+  margin-bottom: 0;
+}
+/*background*/
+.applicationStore-1pNvnv,
+.container-3Mxszk,
+.layer-3QrUeG[aria-label="USER_SETTINGS"],
+.pageWrapper-1PgVDX,
+.content-yTz4x3,
+.tabBody-3YRQ8W {
+    background: var(--main-background);
+    background-color: var(--back-color) !important;
+}
