@@ -1,5 +1,4 @@
-/* 7. Buttons */
-/* 7.a. Green buttons */
+/*Green buttons */
 .lookFilled-1Gx00P.colorGreen-29iAKY {
     border-radius: 0px;
     clip-path: polygon(var(--cp-size) 0, 100% 0, 100% calc(100% - var(--cp-size)), calc(100% - var(--cp-size)) 100%, 0 100%, 0 var(--cp-size));
@@ -8,7 +7,7 @@
 .lookFilled-1Gx00P.colorGreen-29iAKY:hover {
     background-color: var(--green-2) !important;
 }
-/* 7.b. Red buttons */
+/*Red buttons */
 .lookFilled-1Gx00P.colorRed-1TFJan {
   color: rgb(255, 255, 255);
   background-color: var(--red) !important;
