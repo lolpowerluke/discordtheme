@@ -38,20 +38,3 @@
   background-color: var(--back-play-card-fr-list);
   border: 1px solid var(--border-play-card-fr-list);
 }
-/*userbuttons in side panel*/
-.panels-j1Uci_ > .container-3baos1 > .flex-1xMQg5 {
-  position: fixed;
-  bottom: 0px;
-  left: 0px;
-  width: 72px;
-  z-index: 1;
-  padding: 20px 0 10px 0;
-  flex-direction: column;
-  background: linear-gradient(transparent, var(--back-user-buttons) 15%);
-}
-.panels-j1Uci_ > .container-3baos1 > .flex-1xMQg5 > .button-14-BFJ {
-  margin: var(--user-buttons-spacing) auto 0 auto;
-}
-.content-3YMskv {
-  height: 850px !important;
-}
