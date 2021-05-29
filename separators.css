@@ -1,6 +1,4 @@
-
-/* 6. message separators */
-/* 6.a. unread */
+/*unread */
 .isUnread-3Ef-o9 {
   border-color: transparent;
 }
@@ -19,7 +17,7 @@
   display: flex !important;
   color: var(--unread-message) !important;
 }
-/* 6.b. time stamp divider */
+/*time stamp divider */
 #app-mount .divider-JfaTT5.isUnread-3Ef-o9 span {
   display: none;
 }
