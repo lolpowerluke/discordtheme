@@ -1,23 +1,19 @@
-/* 4. Embeds */
-/* 4.a. Main Color */
-/* 4.b. Border Color */
-/* 4.b.1. Anime Sites */
-/* 4.b.1.a. AniMixPlay */
+/*AniMixPlay*/
 .embedWrapper-lXpS3L[style="border-color: rgb(25, 25, 25);"] {
   border-color: blue !important;
   background-color: rgba(0, 0, 255, 0.301) !important;
 }
-/* 4.b.2. Reddit */
+/*Reddit*/
 .embedWrapper-lXpS3L[aria-hidden="false"] {
   border-color: rgb(255, 123, 0);
   background-color: rgba(255, 166, 0, 0.212);
 }
-/* 4.b.3. Youtube */
+/*Youtube */
 .embedWrapper-lXpS3L[style="border-color: rgb(255, 0, 0); max-width: 432px;"] {
   max-width: unset !important;
   background-color: rgba(255, 0, 0, 0.26);
 }
-/* 4.b.4. Betterdiscord */
+/*Betterdiscord */
 .embedWrapper-lXpS3L[style="border-color: rgb(51, 51, 51);"],
 .embedWrapper-lXpS3L[style="border-color: rgb(58, 113, 193);"] {
   background-color: rgba(0, 191, 255, 0.315);
@@ -25,7 +21,7 @@
 .embedWrapper-lXpS3L[style="border-color: rgb(51, 51, 51);"] {
   border-color: rgb(58, 113, 193) !important;
 }
-/* 4.b.5. Custom Embeds */
+/*Custom Embeds */
 .embedWrapper-lXpS3L[style="border-color: rgb(144, 19, 254);"]{
   background-color: rgba(128, 0, 128, 0.356);
 }
