@@ -14,17 +14,17 @@
   background-color: var(--back-header-gifemoji);
   height: 24px;
   border-radius: 10px;
-  border: 1px solid var(--border-gifemoji);
+  border: 1px solid rgba(var(--border-color), var(--border-opacity));
 }
 .wrapper-2Gsate {
   background-color: var(--back-side-gifemoji);
-  border: 1px solid var(--border-gifemoji);
+  border: 1px solid rgba(var(--border-color), var(--border-opacity));
   border-radius: 10px;
 }
 .header-1TOWci,
 .header-8ilj5e {
   background-color: var(--back-search-gifemoji);
-  border: 1px solid var(--border-gifemoji);
+  border: 1px solid rgba(var(--border-color), var(--border-opacity));
   border-radius: 10px;
   padding: 0 10px 8px !important;
   margin-bottom: 7px;
