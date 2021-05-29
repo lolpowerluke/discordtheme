@@ -106,3 +106,10 @@
   margin-right: 0px !important;
   margin-bottom: 0px !important;
 }
+/*screen share modal*/
+.modalSize-cqUaws .sourceScroller-Pk7YAM {
+  background-color: transparent !important;
+}
+.modalSize-cqUaws .flex-1xMQg5 {
+  background-color: var(--screen-share-main);
+}
