@@ -1,12 +1,11 @@
-/* 1. User Settings */
-/* 1.a. General Sidebar */
+/*General Sidebar*/
 .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN {
   -ms-flex: 0;
   -ms-flex-pack: end;
   flex: 0;
   z-index: 1;
 }
-/* 1.b. General Content Area */
+/*General Content Area*/
 .standardSidebarView-3F1I7i .contentColumnDefault-1VQkGM {
   padding: 20px 40px 80px;
 }
