@@ -1,26 +1,10 @@
 @import url('https://lolpowerluke.github.io/discordtheme/USRBG.css');
 @import url('https://lolpowerluke.github.io/discordtheme/USRBG_Quarrel.css');
-/*
-  1. User Settings
-    1.a. Full Screen Settings */
-    @import url('https://lolpowerluke.github.io/discordtheme/userSetting.css'); /*
-    1.b. Settings Icons */
-    @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css'); /*
-  2. Popouts */
-  @import url('https://lolpowerluke.github.io/discordtheme/popouts.css'); /*
-  3. Server
-    3.a. Server Wrapper
-  4. Embeds */
-  @import url('https://lolpowerluke.github.io/discordtheme/embeds.css'); /*
-  5. User Popouts
-    5.a. Small Popout
-    5.b. Big Popout
-  6. message separators */
-  @import url('https://lolpowerluke.github.io/discordtheme/separators.css'); /*
-  7. Buttons */
-  @import url('https://lolpowerluke.github.io/discordtheme/buttons.css'); /*
-  8. Plugins */ 
-  @import url('https://lolpowerluke.github.io/discordtheme/plugins.css'); /*
-  9. Trivia */
-  @import url('https://lolpowerluke.github.io/discordtheme/trivia.css'); /*
-*/
+@import url('https://lolpowerluke.github.io/discordtheme/userSetting.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css');
+@import url('https://lolpowerluke.github.io/discordtheme/popouts.css');
+@import url('https://lolpowerluke.github.io/discordtheme/embeds.css');
+@import url('https://lolpowerluke.github.io/discordtheme/separators.css');
+@import url('https://lolpowerluke.github.io/discordtheme/buttons.css');
+@import url('https://lolpowerluke.github.io/discordtheme/plugins.css');
+@import url('https://lolpowerluke.github.io/discordtheme/trivia.css');
