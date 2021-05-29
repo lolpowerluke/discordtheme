@@ -43,3 +43,13 @@
   max-height: 65px;
   background-color: var(--back-date-viewer) !important;
 }
+/*Permission Viewer*/
+.inner-1ilYF7 .header{
+  background-color: var(--permission-header) !important;
+}
+.inner-1ilYF7 .role-side {
+  background-color: var(--permission-role-side) !important;
+}
+.inner-1ilYF7 .perm-side {
+  background-color: var(--permission-perm-side) !important;
+}
