@@ -49,6 +49,12 @@
   margin-top: 8px;
   width: auto;
 }
+.navItem-3Wp_oJ[aria-selected="true"] .navButtonActive-1MkytQ {
+  background-color: rgba(255, 255, 255, 0.342);
+  border-left: 1px solid rgba(var(--border-color), var(--border-opacity));
+  border-right: 1px solid rgba(var(--border-color), var(--border-opacity));
+  border-radius: 0px;
+}
 /* 2.b. Changelog */
 .focusLock-Ns3yie .scrollerBase-289Jih {
   border-radius: 0px;
