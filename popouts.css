@@ -1,5 +1,5 @@
 
-/* 2. Popouts */
+/*Popouts */
 .header-2-Imhb {
   background-color: var(--popout-header);
 }
@@ -9,7 +9,7 @@
 .container-1CE3eW {
   background-color: var(--create-server);
 }
-/* 2.a. Emoji & Gif */
+/*Emoji & Gif */
 .nav-7UD0KD {
   background-color: var(--back-header-gifemoji);
   height: 24px;
@@ -55,7 +55,7 @@
   border-right: 1px solid rgba(var(--border-color), var(--border-opacity));
   border-radius: 0px;
 }
-/* 2.b. Changelog */
+/*Changelog */
 .focusLock-Ns3yie .scrollerBase-289Jih {
   border-radius: 0px;
 }
@@ -75,7 +75,7 @@
   border: 1px solid rgba(var(--border-color), var(--border-opacity));
   border-top: 0px;
 }
-/* 2.c. Create Server */
+/*Create Server */
 .container-1CE3eW .content-1LAB8Z,
 .container-1CE3eW .flex-1xMQg5 {
   background: transparent !important;
@@ -96,7 +96,7 @@
 .footerButton-ayFTfX:hover {
   background-color: var(--create-server-footer-button-hover) !important;
 }
-/* 2.d. Upload Popout */
+/*Upload Popout */
 .footer-3mqk7D {
   background-color: var(--upload-popout-footer) !important;
 }
