@@ -37,13 +37,13 @@
 .content-ySCtCx,
 .bodyWrapper-3G0FZZ {
   background-color: var(--back-body-gifemoji);
-  border: 1px solid var(--border-gifemoji);
+  border: 1px solid rgba(var(--border-color), var(--border-opacity));
   border-radius: 10px;
   margin-left: 8px;
 }
 .inspector-S2gM3e {
   background-color: var(--back-inspector-gifemoji);
-  border: 1px solid var(--border-gifemoji);
+  border: 1px solid rgba(var(--border-color), var(--border-opacity));
   border-radius: 10px;
   margin-left: 8px;
   margin-top: 8px;
@@ -58,15 +58,15 @@
   background-color: black;
 }
 .layerContainer-yqaFcK .layer-2KE1M9 .focusLock-Ns3yie .header-1TKi98 {
-  border: 1px solid rgba(255, 0, 0, 0.5);
+  border: 1px solid rgba(var(--border-color), var(--border-opacity));
   border-bottom: 0px;
 }
 .layerContainer-yqaFcK .layer-2KE1M9 .focusLock-Ns3yie .thin-1ybCId {
-  border-left: 1px solid rgba(255, 0, 0, 0.5);
-  border-right: 1px solid rgba(255, 0, 0, 0.5);
+  border-left: 1px solid rgba(var(--border-color), var(--border-opacity));
+  border-right: 1px solid rgba(var(--border-color), var(--border-opacity));
 }
 .layerContainer-yqaFcK .layer-2KE1M9 .focusLock-Ns3yie .footer-2gL1pp {
-  border: 1px solid rgba(255, 0, 0, 0.5);
+  border: 1px solid rgba(var(--border-color), var(--border-opacity));
   border-top: 0px;
 }
 /* 2.c. Create Server */
