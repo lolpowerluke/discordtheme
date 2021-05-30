@@ -67,8 +67,9 @@
   border-bottom: 0px;
 }
 .layerContainer-yqaFcK .layer-2KE1M9 .focusLock-Ns3yie .thin-1ybCId {
-  border-left: 1px solid rgba(var(--border-color), var(--border-opacity));
-  border-right: 1px solid rgba(var(--border-color), var(--border-opacity));
+  border: 1px solid rgba(var(--border-color), var(--border-opacity));
+  border-top: 0px;
+  border-radius: 0px;
 }
 .layerContainer-yqaFcK .layer-2KE1M9 .focusLock-Ns3yie .footer-2gL1pp {
   border: 1px solid rgba(var(--border-color), var(--border-opacity));
