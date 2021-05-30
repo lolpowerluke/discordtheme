@@ -110,8 +110,7 @@
 [aria-label^="LLLeider"] .overflow-WK9Ogt,
 [aria-label^="birdgirl"] .overflow-WK9Ogt,
 [aria-label^="Mouson"] .overflow-WK9Ogt,
-[aria-label^="lolpowerluke"] .overflow-WK9Ogt,
-.overflow-WK9Ogt:selected { 
+[aria-label^="lolpowerluke"] .overflow-WK9Ogt { 
   animation: flow 10s ease-in-out infinite;
   background: linear-gradient(-60deg, #391ae9 40%, #ffffff 80%, #391ae9 100%);
   background-size: 300%;
