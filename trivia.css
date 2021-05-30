@@ -99,3 +99,47 @@
 .winButtonMinMax-PBQ2gm[aria-label="Maximize"]{
   color: blue;
 }
+/* Friend list */
+[aria-label^="Laurina0602"] .overflow-WK9Ogt,
+[aria-label^="kittyloe92_97"] .overflow-WK9Ogt,
+[aria-label^="tikagirl"] .overflow-WK9Ogt,
+[aria-label^="LLLeider"] .overflow-WK9Ogt,
+[aria-label^="birdgirl"] .overflow-WK9Ogt,
+[aria-label^="Mouson"] .overflow-WK9Ogt,
+[aria-label^="lolpowerluke"] .overflow-WK9Ogt { 
+  animation: flow 10s ease-in-out infinite;
+  background: linear-gradient(-60deg, #391ae9 40%, #ffffff 80%, #391ae9 100%);
+  background-size: 300%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+@keyframes flow {
+  0% { background-position: 0 50%;}
+  50% { background-position: 300% 50%;}
+  100% { background-position: 0 50%;}
+}
+/*Title Bar*/
+.wordmark-2iDDfm svg {
+  color: var(--title-bar-content-color);
+}
+.titleBar-AC4pGV:not(.typeMacOS-3EmCyP)::after {
+  content: var(--title-bar-content);
+  position: absolute;
+  top: 5px;
+  left: 66px;
+  color: var(--title-bar-content-color);
+  display: block;
+  height: 16px;
+  width: fit-content;
+  pointer-events: none;
+  font-size: 14px;
+  font-weight: bold;
+}
+.titleBar-AC4pGV .winButtonClose-1HsbF- {
+  color: red;
+}
+.winButtonMinMax-PBQ2gm[aria-label="Minimize"],
+.winButtonMinMax-PBQ2gm[aria-label="Maximize"]{
+  color: blue;
+}
