@@ -95,6 +95,10 @@
 .titleBar-AC4pGV .winButtonClose-1HsbF- {
   color: red;
 }
+.titleBar-AC4pGV .winButtonClose-1HsbF-:hover {
+  background-color: red;
+  color: blue;
+}
 .winButtonMinMax-PBQ2gm[aria-label="Minimize"],
 .winButtonMinMax-PBQ2gm[aria-label="Maximize"]{
   color: blue;
