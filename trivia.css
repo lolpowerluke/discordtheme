@@ -119,27 +119,3 @@
   50% { background-position: 300% 50%;}
   100% { background-position: 0 50%;}
 }
-/*Title Bar*/
-.wordmark-2iDDfm svg {
-  color: var(--title-bar-content-color);
-}
-.titleBar-AC4pGV:not(.typeMacOS-3EmCyP)::after {
-  content: var(--title-bar-content);
-  position: absolute;
-  top: 5px;
-  left: 66px;
-  color: var(--title-bar-content-color);
-  display: block;
-  height: 16px;
-  width: fit-content;
-  pointer-events: none;
-  font-size: 14px;
-  font-weight: bold;
-}
-.titleBar-AC4pGV .winButtonClose-1HsbF- {
-  color: red;
-}
-.winButtonMinMax-PBQ2gm[aria-label="Minimize"],
-.winButtonMinMax-PBQ2gm[aria-label="Maximize"]{
-  color: blue;
-}
