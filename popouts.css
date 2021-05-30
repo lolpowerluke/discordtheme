@@ -174,3 +174,64 @@
   background: #120fa0b7;
   box-shadow: 0px 4px 0px #1100ff;
 }
+/*Roles*/
+.role-2irmRk {
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+  border: solid;
+  border-width: 0px 0px 0px 3px;
+  border-radius: 1px 3px 3px 1px;
+}
+
+.roleCircle-3xAZ1j {
+  width: var(--role-circle) !important;
+  height: var(--role-circle) !important;
+}
+
+.roleCircle-3xAZ1j::before {
+  position: absolute;
+  content: "";
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  background: inherit;
+  opacity: 0.3;
+  z-index: -1;
+}
+
+/*Roles selector*/
+.container-3XJ8ns {
+  z-index: 1003;
+  border: none;
+  padding: 0;
+  background-color: #191f2e;
+}
+.container-3XJ8ns .list-1xE9GQ {
+  margin: 0;
+  padding: 0;
+}
+.popoutRoleDot-1XPcoA { 
+  width: 0; 
+  border: none; 
+  margin: 0;
+}
+.item-2J2GlB {
+  margin: 5px;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+}
+.popoutRoleDot-1XPcoA:before {
+  position: absolute;
+  border-radius: 5px;
+  content: "";
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  background: inherit;
+  opacity: 0.2;
+  z-index: -1;
+}
