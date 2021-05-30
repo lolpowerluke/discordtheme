@@ -183,12 +183,10 @@
   border-width: 0px 0px 0px 3px;
   border-radius: 1px 3px 3px 1px;
 }
-
 .roleCircle-3xAZ1j {
   width: var(--role-circle) !important;
   height: var(--role-circle) !important;
 }
-
 .roleCircle-3xAZ1j::before {
   position: absolute;
   content: "";
@@ -200,7 +198,6 @@
   opacity: 0.3;
   z-index: -1;
 }
-
 /*Roles selector*/
 .container-3XJ8ns {
   z-index: 1003;
