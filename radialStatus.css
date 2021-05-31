@@ -4,8 +4,8 @@
   --rs-online-color: var(--online);
   --rs-idle-color: var(--idle);
   --rs-dnd-color: var(--dnd);
-  --rs-invisible-color: var(--offline);
   --rs-offline-color: var(--offline);
+  --rs-invisible-color: var(--offline);
   --rs-streaming-color: var(--streaming);
   --rs-mobile-color: var(--online);
 }
