@@ -1,10 +1,6 @@
 @import url("https://discordstyles.github.io/RadialStatus/base.css");
 
 :root {
-  --rs-small-spacing: 1px;
-  --rs-large-spacing: 1px;
-  --rs-width: 1px;
-  --rs-avatar-shape: 50%;
   --rs-online-color: var(--online);
   --rs-idle-color: var(--idle);
   --rs-dnd-color: var(--dnd);
