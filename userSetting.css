@@ -18,3 +18,7 @@
   min-height: 100%;
   min-width: 460px;
 }
+.bd-addon-card {
+  border: 1px solid rgb(var(--border-color), var(--border-opacity));
+  border-radius: 10px !important;
+}
