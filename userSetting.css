@@ -22,3 +22,9 @@
   border: 1px solid rgb(var(--border-color), var(--border-opacity));
   border-radius: 10px !important;
 }
+.bd-switch-body {
+  background: var(--switch-off);
+}
+.bd-switch input:checked+.bd-switch-body {
+  background: var(--switch-on);
+}
