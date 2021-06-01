@@ -18,6 +18,10 @@
     border-color: var(--text-link) !important;
     background-color: var(--text-link-back) !important;
 }
+#app-mount .imageWrapper-2p5ogY {
+  border-radius: 7px;
+  border: 1px solid rgb(var(--border-color), var(--border-opacity));
+}
 /*platform indicator*/
 .PI-indicatorContainer svg[style*="color: rgb(59, 165, 92);"] {color: var(--rs-online-color) !important;}
 .PI-indicatorContainer svg[style*="color: rgb(250, 166, 26);"] {color: var(--rs-idle-color) !important;}
