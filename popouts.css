@@ -165,6 +165,10 @@
 .note-3HfJZ5 .textarea-2r0oV8:focus {
   background-color: var(--small-user-popout-1-alt);
 }
+.profileBannerPremium-35utuo {
+  border-radius: 10px 10px 0px 0px;
+  width: auto;
+}
 /*Activity cards*/
 .activityUserPopout-2yItg2 {
   border-radius: 5px;
