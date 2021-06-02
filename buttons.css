@@ -16,9 +16,11 @@
   --cp-size: 6px;
 }
 /*Blue buttons*/
+.bd-addon-modal-footer .bd-button,
 .lookFilled-1Gx00P.colorBrand-3pXr91 {
   background-color: var(--back-color-boxes);
 }
+.bd-addon-modal-footer .bd-button,
 .lookFilled-1Gx00P.colorBrand-3pXr91:hover {
   background-color: var(--back-color-boxes-hover);
 }
