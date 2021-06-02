@@ -33,6 +33,14 @@
     background: var(--main-background);
     background-color: var(--back-color) !important;
 }
+/*background selected DM*/
+.selected-3LIHYU,
+a.selected-aXhQR6 {
+  background: var(--back-selected-dm-pic);
+  background-color: var(--back-selected-dm-color);
+  background-size: cover;
+  background-position: var(--back-pos-dm);
+}
 /*playing card in friendlist*/
 .wrapper-3D2qGf {
   background-color: var(--back-color-boxes);
@@ -150,4 +158,8 @@
 .note-450gs3::after {
   content: "Press crtl + shift + i to track down which plugin caused this";
   margin-top: 10px;
+}
+/*Server Wrapper*/
+.guilds-1SWlCJ {
+  height: 880px;
 }
