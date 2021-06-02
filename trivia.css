@@ -192,3 +192,11 @@ a.selected-aXhQR6 {
   z-index: 5;
   border-bottom: 1px solid var(--typing-border);
 }
+/*Stage Pannels*/
+.container-S9SaVf:hover {
+  background-color: var(--back-color-boxes-hover) !important;
+}
+.container-S9SaVf {
+  border: 1px solid rgb(var(--border-color), var(--border-opacity));
+  background-color: var(--back-color-boxes) !important;
+}
