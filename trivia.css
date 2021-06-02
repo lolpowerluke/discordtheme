@@ -163,3 +163,8 @@ a.selected-aXhQR6 {
 .guilds-1SWlCJ {
   height: 880px;
 }
+/*message hover color*/
+.mouse-mode .message-2qnXI6:hover,
+.mouse-mode .scrollerContent-WzeG7R .message-2qnXI6:hover {
+  background-color: var(--message-hover);
+}
