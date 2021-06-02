@@ -253,3 +253,32 @@
   border-left: 1px solid rgb(var(--border-color), var(--border-opacity));
   border-right: 1px solid rgb(var(--border-color), var(--border-opacity));
 }
+/*menu popout animation*/
+@keyframes menu {
+  0% {
+    left: 50px;
+  }
+}
+.submenu-2-ysNh {
+  left: -11.5px;
+  animation-name: menu;
+  animation-duration: 0.4s;
+  animation-timing-function: ease-in-out;
+}
+.labelContainer-1BLJti,
+.scroller-3BxosC {
+    padding: 0;
+}
+.scroller-3BxosC {
+  border: 1px solid red;
+  border-radius: 5px;
+  background-color: var(--scroller-color);
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+.labelContainer-1BLJti {
+  min-height: 21px;
+  padding-left: 10px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
