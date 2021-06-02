@@ -168,3 +168,27 @@ a.selected-aXhQR6 {
 .mouse-mode .scrollerContent-WzeG7R .message-2qnXI6:hover {
   background-color: var(--message-hover);
 }
+/*Typing Status*/
+#app-mount .chat-3bRxxu form .typing-2GQL18 {
+  background-color: var(--channeltextarea-background);
+  bottom: 100%;
+  padding-left: 10px;
+  z-index: 0;
+  overflow: hidden;
+  animation: opacity 300ms ease;
+  -ms-transform-origin: bottom left;
+  transform-origin: bottom left;
+  -ms-transform: scale(1);
+  transform: scale(1);
+  width: fit-content;
+  display: -webkit-box;
+  padding-right: 20px;
+  padding-top: 0px;
+  border-radius: 5px 5px 0 0;
+  box-shadow: 0 -3px 20px rgba(0, 0, 0, .1);
+  opacity: 1;
+  transition: all 200ms ease;
+  text-overflow: ellipsis;
+  z-index: 5;
+  border-bottom: 1px solid var(--typing-border);
+}
