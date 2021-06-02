@@ -15,3 +15,10 @@
   clip-path: polygon(var(--cp-size) 0, 100% 0, 100% calc(100% - var(--cp-size)), calc(100% - var(--cp-size)) 100%, 0 100%, 0 var(--cp-size));
   --cp-size: 6px;
 }
+/*Blue buttons*/
+.lookFilled-1Gx00P.colorBrand-3pXr91 {
+  background-color: var(--back-color-boxes);
+}
+.lookFilled-1Gx00P.colorBrand-3pXr91:hover {
+  background-color: var(--back-color-boxes-hover);
+}
