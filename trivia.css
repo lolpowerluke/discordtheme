@@ -123,3 +123,28 @@
   50% { background-position: 300% 50%;}
   100% { background-position: 0 50%;}
 }
+/*crash screen*/
+.image-3zK3Wt {
+  background-image: var(--crash-screen-image) !important;
+}
+.flexWrapper-2EgxO2 .lookFilled-1Gx00P .contents-18-Yxp::after {
+  content: " Last Respawn Point";
+}
+.note-450gs3 div {
+  visibility: hidden;
+  height: 0px;
+}
+.note-450gs3 {
+  margin-top: -50px;
+}
+.title-3trS3_ {
+  display: none;
+}
+.note-450gs3::before {
+  content: "Your discord got obliberated by one of your plugins";
+  margin-bottom: 10px;
+}
+.note-450gs3::after {
+  content: "Press crtl + shift + i to track down which plugin caused this";
+  margin-top: 10px;
+}
