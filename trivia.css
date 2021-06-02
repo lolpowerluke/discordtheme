@@ -35,8 +35,11 @@
 }
 /*playing card in friendlist*/
 .wrapper-3D2qGf {
-  background-color: var(--background-secondary-alt);
+  background-color: var(--back-color-boxes);
   border: 1px solid rgb(var(--border-color), var(--border-opacity));
+}
+.wrapper-3D2qGf:hover {
+  background-color: var(--back-color-boxes-hover) !important;
 }
 /*search bar*/
 .search-36MZv- {
