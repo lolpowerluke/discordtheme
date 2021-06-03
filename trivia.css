@@ -201,3 +201,7 @@ a.selected-aXhQR6 {
   border: 1px solid rgb(var(--border-color), var(--border-opacity));
   background-color: var(--back-color-boxes) !important;
 }
+/*Small Number Badges*/
+.numberBadge-2s8kKX {
+  background-color: var(--back-color-number-badges) !important;
+}
