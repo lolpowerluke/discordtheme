@@ -1,4 +1,4 @@
-/*unread */
+/*Unread */
 .isUnread-3Ef-o9 {
   border-color: transparent;
 }
@@ -37,7 +37,7 @@
     box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
   }
 }
-/*time stamp divider */
+/*Time Stamp Divider */
 #app-mount .divider-JfaTT5.isUnread-3Ef-o9 span {
   display: none;
 }
@@ -57,4 +57,8 @@
   height: 1px;
   border: 1px;
   background: linear-gradient(to right, var(--message-separator-line) 50%, transparent);
+}
+/*Role Members*/
+.divider-3573oO {
+  border-top: thin solid rgb(var(--separator));
 }
