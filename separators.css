@@ -80,10 +80,6 @@
   margin-left: 15px;
   padding-right: 10px;
   padding-left: 15px;
-  pointer-events: none;
-}
-.mouse-mode .peopleListItem-2nzedh {
-  pointer-events: unset;
 }
 .peopleListItem-2nzedh:nth-child(2):hover {
   border: 1px solid rgb(var(--separator));
@@ -114,10 +110,4 @@
 }
 .userInfo-2zN2z8 {
   overflow: hidden !important;
-}
-.pointerEvents-2zdfdO {
-  pointer-events: none;
-}
-.mouse-mode .pointerEvents-2zdfdO {
-  pointer-events: unset;
 }
