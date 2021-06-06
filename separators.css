@@ -63,9 +63,34 @@
   border-top: 1px solid rgb(var(--separator));
 }
 /*Friend List*/
+.peopleListItem-2nzedh:nth-child(2) {
+  border: 1px solid rgb(var(--border-color), var(--border-opacity));
+  border-radius: 10px 10px 0px 0px;
+}
+.peopleListItem-2nzedh:last-child {
+  border: 1px solid rgb(var(--border-color), var(--border-opacity));
+  border-radius: 0px 0px 10px 10px;
+}
 .peopleListItem-2nzedh {
-  border-bottom: 1px solid rgb(var(--border-color), var(--border-opacity));
-  border-radius: 10px;
+  border-left: 1px solid rgb(var(--border-color), var(--border-opacity));
+  border-right: 1px solid rgb(var(--border-color), var(--border-opacity));
+  border-radius: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+  padding-right: 20px;
+  padding-left: 30px;
+}
+.peopleListItem-2nzedh:nth-child(2):hover {
+  border: 1px solid var(--unread-pill);
+  border-radius: 10px 10px 0px 0px;
+}
+.peopleListItem-2nzedh:last-child:hover {
+  border: 1px solid var(--unread-pill);
+  border-radius: 0px 0px 10px 10px;
+}
+.peopleListItem-2nzedh:hover {
+  border: 1px solid var(--unread-pill);
+  border-radius: 0px;
   margin-right: 0px;
   margin-left: 0px;
   padding-right: 20px;
