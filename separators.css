@@ -109,5 +109,5 @@
   border: 1px solid rgb(var(--separator));
 }
 .userInfo-2zN2z8 {
-  overflow: hidden;
+  overflow: hidden !important;
 }
