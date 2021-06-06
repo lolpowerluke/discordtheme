@@ -207,3 +207,7 @@ a.selected-aXhQR6 .overflow-WK9Ogt,
 .numberBadge-2s8kKX {
   background-color: var(--back-color-number-badges) !important;
 }
+/*Status Circle Top Of The DM*/
+[aria-label="Online"] .mask-1qbNWk rect {
+  fill: var(--online);
+}
