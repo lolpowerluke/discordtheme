@@ -80,16 +80,20 @@
   margin-left: 15px;
   padding-right: 10px;
   padding-left: 15px;
+  pointer-events: none;
 }
-.mouse-mode .peopleListItem-2nzedh:nth-child(2):hover {
+.mouse-mode .peopleListItem-2nzedh {
+  pointer-events: unset;
+}
+.peopleListItem-2nzedh:nth-child(2):hover {
   border: 1px solid rgb(var(--separator));
   border-radius: 10px 10px 0px 0px;
 }
-.mouse-mode .peopleListItem-2nzedh:last-child:hover {
+.peopleListItem-2nzedh:last-child:hover {
   border: 1px solid rgb(var(--separator));
   border-radius: 0px 0px 10px 10px;
 }
-.mouse-mode .peopleListItem-2nzedh:hover {
+.peopleListItem-2nzedh:hover {
   border: 1px solid rgb(var(--separator));
   border-radius: 0px;
   margin-right: 10px;
@@ -105,7 +109,7 @@
   border: 1px solid rgb(var(--border-color), var(--border-opacity));
   border-radius: 0px 0px 10px 10px;
 }
-.mouse-mode .peopleListItem-2nzedh:hover+.peopleListItem-2nzedh:hover {
+.peopleListItem-2nzedh:hover+.peopleListItem-2nzedh:hover {
   border: 1px solid rgb(var(--separator));
 }
 .userInfo-2zN2z8 {
