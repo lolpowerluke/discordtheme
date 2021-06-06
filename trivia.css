@@ -212,15 +212,13 @@ a.selected-aXhQR6 .overflow-WK9Ogt,
   fill: var(--online);
 }
 /*Pointer Event Stuff*/
+.avatar-1BDn8e.clickable-1bVtEA,
+.pointerEvents-2zdfdO,
 #app-mount {
   pointer-events: none;
 }
+.mouse-mode .avatar-1BDn8e.clickable-1bVtEA,
+.mouse-mode .pointerEvents-2zdfdO,
 .mouse-mode #app-mount {
-  pointer-events: unset;
-}
-.pointerEvents-2zdfdO {
-  pointer-events: none;
-}
-.mouse-mode .pointerEvents-2zdfdO {
   pointer-events: unset;
 }
