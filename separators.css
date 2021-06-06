@@ -62,3 +62,12 @@
 .divider-3573oO {
   border-top: 1px solid rgb(var(--separator));
 }
+/*Friend List*/
+.peopleListItem-2nzedh {
+  border-bottom: 1px solid rgb(var(--border-color), var(--border-opacity));
+  border-radius: 10px;
+  margin-right: 0px;
+  margin-left: 0px;
+  padding-right: 20px;
+  padding-left: 30px;
+}
