@@ -1,9 +1,11 @@
 /*Green buttons */
+.tabBar-ZmDY9v .item-3HknzM[aria-controls="ADD_FRIEND-tab"],
 .lookFilled-1Gx00P.colorGreen-29iAKY {
     border-radius: 0px;
     clip-path: polygon(var(--cp-size) 0, 100% 0, 100% calc(100% - var(--cp-size)), calc(100% - var(--cp-size)) 100%, 0 100%, 0 var(--cp-size));
     --cp-size: 6px;
 }
+.tabBar-ZmDY9v .item-3HknzM[aria-controls="ADD_FRIEND-tab"]:hover,
 .lookFilled-1Gx00P.colorGreen-29iAKY:hover {
     background-color: var(--green-2) !important;
 }
