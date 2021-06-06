@@ -115,3 +115,9 @@
 .userInfo-2zN2z8 {
   overflow: hidden !important;
 }
+.pointerEvents-2zdfdO {
+  pointer-events: none;
+}
+.mouse-mode .pointerEvents-2zdfdO {
+  pointer-events: unset;
+}
