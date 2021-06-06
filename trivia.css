@@ -211,3 +211,10 @@ a.selected-aXhQR6 .overflow-WK9Ogt,
 [aria-label="Online"] .mask-1qbNWk rect {
   fill: var(--online);
 }
+/*Pointer Event Stuff*/
+#app-mount {
+  pointer-events: none;
+}
+.mouse-mode #app-mount {
+  pointer-events: unset;
+}
