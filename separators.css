@@ -69,11 +69,12 @@
 }
 .peopleListItem-2nzedh:last-child {
   border: 1px solid rgb(var(--border-color), var(--border-opacity));
+  border-top: 0px;
   border-radius: 0px 0px 10px 10px;
 }
 .peopleListItem-2nzedh {
-  border-left: 1px solid rgb(var(--border-color), var(--border-opacity));
-  border-right: 1px solid rgb(var(--border-color), var(--border-opacity));
+  border: 1px solid rgb(var(--border-color), var(--border-opacity));
+  border-top: 0px;
   border-radius: 0px;
   margin-right: 0px;
   margin-left: 0px;
@@ -95,4 +96,12 @@
   margin-left: 0px;
   padding-right: 20px;
   padding-left: 30px;
+}
+.peopleListItem-2nzedh.active-rhSpJJ+.peopleListItem-2nzedh,
+.peopleListItem-2nzedh:hover+.peopleListItem-2nzedh {
+  border: 1px solid rgb(var(--border-color), var(--border-opacity));
+}
+.peopleListItem-2nzedh:nth-last-child(2):hover+.peopleListItem-2nzedh {
+  border: 1px solid rgb(var(--border-color), var(--border-opacity));
+  border-radius: 0px 0px 10px 10px;
 }
