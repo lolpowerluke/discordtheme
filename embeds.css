@@ -29,3 +29,8 @@
 .theme-dark .guildIconImage-3qTk45 {
   background-color: transparent;
 }
+/*Twitter*/
+.embedWrapper-lXpS3L[style^="border-color: rgb(29, 161, 242);"] {
+  background-color: rgba(0, 153, 255, 0.288);
+  max-width: unset !important;
+}
