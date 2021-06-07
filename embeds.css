@@ -25,3 +25,7 @@
 .embedWrapper-lXpS3L[style="border-color: rgb(144, 19, 254);"]{
   background-color: rgba(128, 0, 128, 0.356);
 }
+/*server Icon In Invite Embed*/
+.theme-dark .guildIconImage-3qTk45 {
+  background-color: transparent;
+}
