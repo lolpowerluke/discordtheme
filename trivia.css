@@ -216,3 +216,8 @@ a.selected-aXhQR6 .overflow-WK9Ogt,
   display: block;
   visibility: visible;
 }
+/*Usertag Always Shows On Hover*/
+.peopleListItem-2nzedh:hover .userInfo-2zN2z8 .discriminator-22Okc1 {
+  display: block;
+  visibility: visible;
+}
