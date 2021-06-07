@@ -25,9 +25,12 @@
 .embedWrapper-lXpS3L[style="border-color: rgb(144, 19, 254);"]{
   background-color: rgba(128, 0, 128, 0.356);
 }
-/*server Icon In Invite Embed*/
+/*Invite Embed*/
 .theme-dark .guildIconImage-3qTk45 {
   background-color: transparent;
+}
+.wrapper-35wsBm {
+  border: 1px solid rgb(var(--border-color-blue), var(--border-opacity-blue));
 }
 /*Twitter*/
 .embedWrapper-lXpS3L[style^="border-color: rgb(29, 161, 242);"] {
