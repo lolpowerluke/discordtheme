@@ -108,6 +108,10 @@
 .peopleListItem-2nzedh:hover+.peopleListItem-2nzedh:hover {
   border: 1px solid rgb(var(--separator));
 }
+.peopleListItem-2nzedh:nth-child(2):last-child {
+  border: 1px solid rgb(var(--border-color), var(--border-opacity));
+  border-radius: 10px;
+}
 .userInfo-2zN2z8 {
   overflow: hidden !important;
 }
