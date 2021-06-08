@@ -124,7 +124,7 @@
 .profileBanner-33-uE1 {
   border-radius: 10px 10px 0px 0px;
 }
-.headerTop-2y3V6H {
+.headerTop-2cWpdB {
   opacity: 1;
   background-size: auto;
   background-repeat: no-repeat;
@@ -134,10 +134,10 @@
   mask-image: linear-gradient(0.25turn, #0009, #0000);
 }
 .userPopout-3XzG_A .date-YN6TCS,
-.headerText-2WJ44e {
+.headerText-15Q25Z {
   color: white !important;
 }
-.userPopout-3XzG_A > :first-child {
+.userPopout-xaxa6l > :first-child {
   max-height: 1000px;
   height: unset;
   border: 1px solid rgba(var(--border-color), var(--border-opacity));
@@ -145,21 +145,21 @@
   border-radius: 10px 10px 0px 0px;
   background: var(--small-user-popout-1);
 }
-.theme-dark .body-3iLsc4 {
+.theme-dark .body-3HBlXn {
   border: 1px solid rgba(var(--border-color), var(--border-opacity));
   border-bottom: 0px;
 }
-.theme-dark .footer-1fjuF6 {
+.theme-dark .footer-1N3bR3 {
   border: 1px solid rgba(var(--border-color), var(--border-opacity));
   border-radius: 0px 0px 10px 10px;
 }
-.protip-YaFfgO {
+.protip-2urNh2 {
   height: 5px;
   margin-top: 3px;
   margin-bottom: -1px;
 }
-.theme-dark .body-3iLsc4,
-.theme-dark .footer-1fjuF6 {
+.theme-dark .body-3HBlXn,
+.theme-dark .footer-1N3bR3 {
   background: var(--small-user-popout-2);
 }
 .footer-1fjuF6 .inputDefault-_djjkz {
@@ -168,7 +168,7 @@
   border-radius: 0px 0px 5px 5px;
   background: var(--small-user-popout-2-alt);
 }
-.note-3HfJZ5 .textarea-2r0oV8:focus {
+.note-3HfJZ5 .input-cIJ7To:focus {
   background-color: var(--small-user-popout-1-alt);
 }
 .profileBannerPremium-35utuo {
