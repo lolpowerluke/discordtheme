@@ -27,7 +27,8 @@
   height: var(--avatar-width) !important;
 }
 
-/*Badges*/
+/*Icons*/
+.header-4zuFdR .UserDetails-dates-container,
 .header-4zuFdR .profileBadges-9OJ14v {
   display: flex;
   justify-content: center;
