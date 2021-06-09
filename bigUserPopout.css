@@ -113,21 +113,12 @@
   border-top-right-radius: 5px;
 }
 .headerFill-39azRn .button-2IFFQ4:last-child {
-  top: -3px;
+  top: 43px;
   right: 5px;
-  left: unset;
-  border-top-right-radius: 5px;
   position: absolute;
   max-width: 150px;
 }
 /*Spotify Stuff*/
-.headerFill-39azRn .button-2IFFQ4:last-child[aria-label^="Listen along with"] {
-  top: 43px;
-  right: 5px;
-  left: unset;
-  position: absolute;
-  max-width: 150px;
-}
 .text-AOoUen {
   background-color: var(--back-color-boxes);
 }
