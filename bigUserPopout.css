@@ -101,20 +101,23 @@
 .button-2IFFQ4:active {
   transform: scale(0.9);
 }
+.xboxAssets-aGhVw8 {
+  flex: 0;
+}
 /*Spotify Stuff*/
 .headerFill-39azRn .button-2IFFQ4:first-child {
+  top: 5px;
+  left: 130px;
   position: absolute;
-  left: 250px;
-  right: 20px;
   max-width: 150px;
-  top: 15px;
 }
 .headerFill-39azRn .button-2IFFQ4:last-child {
+  top: -3px;
+  right: 5px;
+  left: unset;
+  border-top-right-radius: 5px;
   position: absolute;
-  left: 400px;
-  right: 20px;
   max-width: 150px;
-  top: 15px;
 }
 .text-AOoUen {
   background-color: var(--back-color-boxes);
@@ -211,7 +214,7 @@
 [src="/assets/5d69e29f0d71aaa04ed9725100199b4e.png"] {
   background-color: #24292e62;
 }
-/*Other Stuff, idk What Exactly*/
+/*Custom Status*/
 .activity-2M3PRB:not(.activityProfile-2bJRaP) {
   position: absolute;
   top: 270px;
@@ -219,17 +222,4 @@
 }
 .activityHeader-2shpl0::after {
   content: ":";
-}
-.headerFill-39azRn .button-2IFFQ4:last-child {
-  top: -3px;
-  right: 5px;
-  left: unset;
-  border-top-right-radius: 5px;
-}
-.headerFill-39azRn .button-2IFFQ4:first-child {
-  top: 5px;
-  left: 130px;
-}
-.xboxAssets-aGhVw8 {
-  flex: 0;
 }
