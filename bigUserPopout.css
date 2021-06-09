@@ -211,3 +211,25 @@
 [src="/assets/5d69e29f0d71aaa04ed9725100199b4e.png"] {
   background-color: #24292e62;
 }
+/*Other Stuff, idk What Exactly*/
+.activity-2M3PRB:not(.activityProfile-2bJRaP) {
+  position: absolute;
+  top: 270px;
+  left: 220px;
+}
+.activityHeader-2shpl0::after {
+  content: ":";
+}
+.headerFill-39azRn .button-2IFFQ4:last-child {
+  top: -3px;
+  right: 5px;
+  left: unset;
+  border-top-right-radius: 5px;
+}
+.headerFill-39azRn .button-2IFFQ4:first-child {
+  top: 5px;
+  left: 130px;
+}
+.xboxAssets-aGhVw8 {
+  flex: 0;
+}
