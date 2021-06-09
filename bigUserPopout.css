@@ -86,9 +86,6 @@
   left: 220px;
   top: 10px;
 }
-.text-AOoUen {
-  background-color: var(--back-color-boxes);
-}
 .buttonsWrapper-2spIeK {
   background-color: rgb(var(--back-user-buttons)) !important;
 }
@@ -102,6 +99,22 @@
 }
 .button-2IFFQ4:active {
   transform: scale(0.9);
+}
+/*Spotify Stuff*/
+.button-2IFFQ4:first-child {
+  position: absolute;
+  left: 250px;
+  right: 20px;
+  max-width: 150px;
+}
+.button-2IFFQ4:last-child {
+  position: absolute;
+  left: 400px;
+  right: 20px;
+  max-width: 150px;
+}
+.text-AOoUen {
+  background-color: var(--back-color-boxes);
 }
 /*Infos/Server/Friends*/
 .tabBarContainer-37hZsr:not(.flex-1xMQg5) {
