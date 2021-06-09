@@ -102,14 +102,14 @@
   transform: scale(0.9);
 }
 /*Spotify Stuff*/
-.button-2IFFQ4:first-child {
+.headerFill-39azRn .button-2IFFQ4:first-child {
   position: absolute;
   left: 250px;
   right: 20px;
   max-width: 150px;
   top: 15px;
 }
-.button-2IFFQ4:last-child {
+.headerFill-39azRn .button-2IFFQ4:last-child {
   position: absolute;
   left: 400px;
   right: 20px;
