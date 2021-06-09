@@ -106,12 +106,14 @@
   left: 250px;
   right: 20px;
   max-width: 150px;
+  top: 15px;
 }
 .button-2IFFQ4:last-child {
   position: absolute;
   left: 400px;
   right: 20px;
   max-width: 150px;
+  top: 15px;
 }
 .text-AOoUen {
   background-color: var(--back-color-boxes);
