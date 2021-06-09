@@ -86,6 +86,9 @@
   left: 220px;
   top: 10px;
 }
+.text-AOoUen {
+  background-color: var(--back-color-boxes);
+}
 .buttonsWrapper-2spIeK {
   background-color: rgb(var(--back-user-buttons)) !important;
 }
