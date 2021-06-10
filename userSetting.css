@@ -31,9 +31,9 @@
 /*Switches*/
 .container-3auIfb[style*="hsl(218, calc(var(--saturation-factor, 1) * 4.6%), 46.9%);"],
 .bd-switch-body {
-  background: var(--switch-off);
+  background: var(--switch-off) !important;
 }
 .container-3auIfb[style*="hsl(139, calc(var(--saturation-factor, 1) * 47.3%), 43.9%);"],
 .bd-switch input:checked+.bd-switch-body {
-  background: var(--switch-on);
+  background: var(--switch-on) !important;
 }
