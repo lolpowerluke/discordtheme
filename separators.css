@@ -17,6 +17,12 @@
   display: flex !important;
   color: var(--unread-message) !important;
 }
+.pill-1z4sAY .item-2hkk8m {
+  background-color: var(--unread-pill);
+  animation-name: channel-unread-1;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
 .unread-2lAfLh {
   width: 8px;
   top: 52%;
