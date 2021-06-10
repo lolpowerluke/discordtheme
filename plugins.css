@@ -31,6 +31,11 @@
 .PI-indicatorContainer div[aria-label="Mobile: Idle"] .PI-icon_mobile {color: var(--idle) !important;}
 .PI-indicatorContainer div[aria-label="Mobile: Do Not Disturb"] .PI-icon_mobile {color: var(--dnd) !important;}
 .PI-indicatorContainer div[aria-label="Mobile: Streaming"] .PI-icon_mobile {color: var(--streaming) !important;}
+/*Platform Indicator Web*/
+.PI-indicatorContainer div[aria-label="Web: Online"] .PI-icon_web {color: var(--online) !important;}
+.PI-indicatorContainer div[aria-label="Web: Idle"] .PI-icon_web {color: var(--idle) !important;}
+.PI-indicatorContainer div[aria-label="Web: Do Not Disturb"] .PI-icon_web {color: var(--dnd) !important;}
+.PI-indicatorContainer div[aria-label="Web: Streaming"] .PI-icon_web {color: var(--streaming) !important;}
 /*pin DMs*/
 .privateChannels-1nO12o .privateChannelsHeaderContainer-3NB1K1 .clickable-3rdHwn,
 .privateChannels-1nO12o .privateChannelsHeaderContainer-3NB1K1 .numberBadge-2s8kKX,
