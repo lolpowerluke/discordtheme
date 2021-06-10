@@ -94,23 +94,20 @@
 /*Roles selector*/
 .container-3XJ8ns {
   z-index: 1003;
-  border: none;
+  border: 1px solid rgb(var(--border-color), var(--border-opacity));
   padding: 0;
-  background-color: #191f2e;
+  background-color: black;
 }
 .container-3XJ8ns .list-1xE9GQ {
   margin: 0;
   padding: 0;
 }
 .popoutRoleDot-1XPcoA { 
-  width: 0; 
-  border: none; 
-  margin: 0;
+  width: 0;
 }
 .item-2J2GlB {
   margin: 5px;
   position: relative;
-  overflow: hidden;
   z-index: 1;
 }
 .popoutRoleDot-1XPcoA:before {
@@ -123,5 +120,4 @@
   height: 100%;
   background: inherit;
   opacity: 0.2;
-  z-index: -1;
 }
