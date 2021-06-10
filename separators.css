@@ -43,6 +43,9 @@
     box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
   }
 }
+.item-2hkk8m {
+  background-color: var(--selected-pill);
+}
 /*Time Stamp Divider */
 #app-mount .divider-JfaTT5.isUnread-3Ef-o9 span {
   display: none;
