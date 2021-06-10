@@ -22,10 +22,10 @@
   border: 1px solid rgb(var(--border-color), var(--border-opacity));
 }
 /*platform indicator*/
-.PI-indicatorContainer svg[style*="color: rgb(59, 165, 92);"] {color: var(--rs-online-color) !important;}
-.PI-indicatorContainer svg[style*="color: rgb(250, 166, 26);"] {color: var(--rs-idle-color) !important;}
-.PI-indicatorContainer svg[style*="color: rgb(237, 66, 69);"] {color: var(--rs-dnd-color) !important;}
-.PI-indicatorContainer svg[style*="#747f8d"] {color: var(--rs-streaming-color) !important;}
+.PI-indicatorContainer svg[style="color: hsl(139, calc(var(--saturation-factor, 1) * 47.3%), 43.9%);"] {color: var(--rs-online-color) !important;}
+.PI-indicatorContainer svg[style="color: hsl(38, calc(var(--saturation-factor, 1) * 95.7%), 54.1%);"] {color: var(--rs-idle-color) !important;}
+.PI-indicatorContainer svg[style="color: hsl(359, calc(var(--saturation-factor, 1) * 82.6%), 59.4%);"] {color: var(--rs-dnd-color) !important;}
+.PI-indicatorContainer svg[style="#747f8d"] {color: var(--rs-streaming-color) !important;}
 /*pin DMs*/
 .privateChannels-1nO12o .privateChannelsHeaderContainer-3NB1K1 .clickable-3rdHwn,
 .privateChannels-1nO12o .privateChannelsHeaderContainer-3NB1K1 .numberBadge-2s8kKX,
