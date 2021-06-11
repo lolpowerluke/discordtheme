@@ -21,7 +21,7 @@
   border: 1px solid rgba(var(--border-color), var(--border-opacity));
   border-bottom: 0px;
   border-radius: 10px 10px 0px 0px;
-  background: var(--small-user-popout-1);
+  background: var(--user-popout);
 }
 .theme-dark .body-3HBlXn {
   border: 1px solid rgba(var(--border-color), var(--border-opacity));
@@ -38,16 +38,16 @@
 }
 .theme-dark .body-3HBlXn,
 .theme-dark .footer-1N3bR3 {
-  background: var(--small-user-popout-2);
+  background: var(--user-popout);
 }
 .footer-1fjuF6 .inputDefault-_djjkz {
   border: 1px solid rgba(var(--border-color), var(--border-opacity));
   border-top: 0px;
   border-radius: 0px 0px 5px 5px;
-  background: var(--small-user-popout-2-alt);
+  background: var(--user-popout-alt);
 }
 .note-3HfJZ5 .input-cIJ7To:focus {
-  background-color: var(--small-user-popout-1-alt);
+  background-color: var(--user-popout-alt);
 }
 .profileBannerPremium-35utuo {
   border-radius: 10px 10px 0px 0px;
