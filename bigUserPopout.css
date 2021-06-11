@@ -194,3 +194,42 @@
 [src="/assets/5d69e29f0d71aaa04ed9725100199b4e.png"] {
   background-color: #24292e62;
 }
+/*Playing*/
+.activityProfile-2bJRaP {
+  margin: 15px 8px 15px 8px;
+  padding: 10px;
+  background: var(--back-color-boxes);
+  border-bottom: 4px solid rgb(var(--border-color-blue));
+  border-top: 4px solid rgb(var(--spotify-color), var(--border-opacity));
+  border-left: 4px solid rgb(var(--playing-color));
+  border-right: 4px solid rgb(var(--streaming-color));
+  border-radius: 15px;
+  box-shadow: none;
+  top: 10px;
+}
+.activityProfile-2bJRaP {
+  margin: 15px 8px 15px 8px;
+  padding: 10px;
+  background: var(--back-color-boxes);
+  border-bottom: 4px solid rgb(var(--border-color-blue));
+  border-top: 4px solid rgb(var(--spotify-color), var(--border-opacity));
+  border-left: 4px solid rgb(var(--playing-color));
+  border-right: 4px solid rgb(var(--streaming-color));
+  border-radius: 15px;
+  box-shadow: none;
+  top: 10px;
+}
+.buttonsWrapper-2spIeK {
+  background-color: rgb(var(--back-user-buttons)) !important;
+}
+.button-2IFFQ4 {
+  background-color: var(--back-user-buttons);
+  border-color: rgb(var(--border-color), var(--border-opacity)) !important;
+  transition: 0.15s;
+}
+.button-2IFFQ4:hover { 
+  background-color: hsla(0,0%,100%,.1);
+}
+.button-2IFFQ4:active {
+  transform: scale(0.9);
+}
