@@ -106,6 +106,10 @@
   padding-right: 10px;
   padding-left: 15px;
 }
+.peopleListItem-2nzedh.active-rhSpJJ {
+  margin: 0px 10px 0px 15px;
+  padding: 0px 10px 0px 15px;
+}
 .peopleListItem-2nzedh.active-rhSpJJ+.peopleListItem-2nzedh,
 .peopleListItem-2nzedh:hover+.peopleListItem-2nzedh {
   border: 1px solid rgb(var(--border-color), var(--border-opacity));
