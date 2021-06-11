@@ -96,7 +96,7 @@
   z-index: 1003;
   border: 1px solid rgb(var(--border-color), var(--border-opacity));
   padding: 0;
-  background-color: black;
+  background-color: var(--user-popout);
 }
 .container-3XJ8ns .list-1xE9GQ {
   margin: 0;
