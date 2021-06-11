@@ -1,6 +1,6 @@
 /*Big User Popout*/
 .root-3QyAh1 {
-  width: 700px;
+  width: 900px;
   min-height: 400px;
 }
 .root-1gCeng:not(.modal-qgFCbT) {
@@ -86,7 +86,7 @@
   bottom: 0;
   right: 10px;
   z-index: 1;
-  width: 430px;
+  width: 630px;
   height: unset;
   background-color: var(--user-popout);
 }
@@ -144,7 +144,7 @@
   border: solid #151b27;
   border-width: 1.2px 1.2px 3px 1.2px;
   border-radius: 4px;
-  width: 400px;
+  width: 265px;
   transition: 0.1s;
 }
 .connectedAccount-2Jb-Z0:active {
