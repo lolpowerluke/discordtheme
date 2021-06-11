@@ -211,7 +211,7 @@ a.selected-aXhQR6 .overflow-WK9Ogt,
 [aria-label="Online"] .mask-1qbNWk rect {
   fill: var(--online);
 }
-/*Usertag On Always Shows Hover*/
+/*Usertag Always Shows On Hover*/
 .peopleListItem-2nzedh:hover .userInfo-2zN2z8 .discriminator-22Okc1 {
   display: block;
   visibility: visible;
