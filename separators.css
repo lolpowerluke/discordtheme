@@ -125,6 +125,18 @@
   border: 1px solid rgb(var(--border-color), var(--border-opacity));
   border-radius: 10px;
 }
+.peopleListItem-2nzedh:nth-child(2).active-rhSpJJ {
+  border: 1px solid rgb(var(--border-color-blue), var(--border-opacity-blue));
+  border-radius: 10px 10px 0px 0px;
+}
+.peopleListItem-2nzedh:last-child.active-rhSpJJ {
+  border: 1px solid rgb(var(--border-color-blue), var(--border-opacity-blue));
+  border-radius: 0px 0px 10px 10px;
+}
+.peopleListItem-2nzedh.active-rhSpJJ {
+  border: 1px solid rgb(var(--border-color-blue), var(--border-opacity-blue));
+  border-radius: 0px;
+}
 .userInfo-2zN2z8 {
   overflow: hidden !important;
 }
