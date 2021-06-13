@@ -27,13 +27,14 @@
 /*Avatar*/
 .avatar-AvHqJA {
   position: absolute;
-  top: -170px;
+  top: -235px;
   left: 45%;
   margin-left: calc((var(--avatar-width) / 2) - var(--avatar-width));
   border: 8px solid var(--back-account);
   background: none;
   width: var(--avatar-width) !important;
   height: var(--avatar-width) !important;
+  transform: scale(1.5);
 }
 /*Avatar Header*/
 .topSection-y3p-_D > header {
@@ -44,8 +45,9 @@
       "status";
   width: 200px;
   background: var(--back-color-boxes);
-  margin: 100px 20px 20px 20px;
+  margin: 20px 20px 20px 20px;
   padding: 15px;
+  padding-top: 95px;
   border-radius: 5px;
 }
 .header-4zuFdR {
