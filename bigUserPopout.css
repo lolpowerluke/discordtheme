@@ -27,10 +27,10 @@
 /*Avatar*/
 .avatar-AvHqJA {
   position: absolute;
-  top: -180px;
-  left: 50%;
+  top: -170px;
+  left: 45%;
   margin-left: calc((var(--avatar-width) / 2) - var(--avatar-width));
-  border: none;
+  border: 8px solid var(--back-account);
   background: none;
   width: var(--avatar-width) !important;
   height: var(--avatar-width) !important;
