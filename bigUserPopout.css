@@ -27,7 +27,7 @@
 /*Avatar*/
 .avatar-AvHqJA {
   position: absolute;
-  top: -235px;
+  top: -215px;
   left: 45%;
   margin-left: calc((var(--avatar-width) / 2) - var(--avatar-width));
   border: 8px solid var(--back-account);
