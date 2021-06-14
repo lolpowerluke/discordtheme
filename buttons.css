@@ -26,3 +26,30 @@
 .lookFilled-1Gx00P.colorBrand-3pXr91:hover {
   background-color: var(--back-color-boxes-hover);
 }
+/*Home Button*/
+.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, 
+.wrapper-1BJsBx:hover .childWrapper-anI2G9 {
+  background-color: transparent;
+}
+.homeIcon-FuNwkv path {
+  display: none;
+}
+.homeIcon-FuNwkv {
+  background-color: white;
+  -webkit-mask: url(https://i.imgur.com/PrJ5xwf.png);
+  -webkit-mask-size: 45px;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  -webkit-mask-position: center;
+  background-color: var(--unread-pill);
+}
+/*Create Server And Explore Servers Buttons*/
+.listItemWrapper-KhRmzM {
+  background-color: black;
+  border: 1px solid rgb(var(--border-color-blue));
+  border-radius: 30px;
+}
+.circleIconButton-1QV--U.selected-1JjBPm {
+  color: var(--unread-pill);
+  background-color: transparent;
+}
