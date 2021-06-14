@@ -35,7 +35,6 @@
   display: none;
 }
 .homeIcon-FuNwkv {
-  background-color: white;
   -webkit-mask: var(--home-button-background);
   -webkit-mask-size: 45px;
   -webkit-mask-repeat: no-repeat;
