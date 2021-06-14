@@ -36,7 +36,7 @@
 }
 .homeIcon-FuNwkv {
   background-color: white;
-  -webkit-mask: url(https://i.imgur.com/PrJ5xwf.png);
+  -webkit-mask: var(--home-button-background);
   -webkit-mask-size: 45px;
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-position: center;
