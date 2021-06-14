@@ -36,7 +36,7 @@
 }
 .homeIcon-FuNwkv {
   -webkit-mask: var(--home-button-background);
-  -webkit-mask-size: 45px;
+  -webkit-mask-size: var(--home-button-background-size);
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-position: center;
   background-color: var(--unread-pill);
