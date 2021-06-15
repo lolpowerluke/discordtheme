@@ -115,27 +115,6 @@ a.selected-aXhQR6 {
 .winButtonMinMax-PBQ2gm[aria-label="Maximize"]{
   color: blue;
 }
-/*Friend List*/
-a.selected-aXhQR6 .name-uJV0GL,
-[aria-label^="Laurina0602"] .name-uJV0GL,
-[aria-label^="kittyloe92_97"] .name-uJV0GL,
-[aria-label^="tikagirl"] .name-uJV0GL,
-[aria-label^="LLLeider"] .name-uJV0GL,
-[aria-label^="birdgirl"] .name-uJV0GL,
-[aria-label^="Mouson"] .name-uJV0GL,
-[aria-label^="lolpowerluke"] .name-uJV0GL { 
-  animation: flow 10s ease-in-out infinite;
-  background: linear-gradient(-60deg, #391ae9 40%, #ffffff 80%, #391ae9 100%);
-  background-size: 300%;
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-@keyframes flow {
-  0% { background-position: 0 50%;}
-  50% { background-position: 300% 50%;}
-  100% { background-position: 0 50%;}
-}
 /*Crash Screen*/
 .image-3zK3Wt {
   background-image: var(--crash-screen-image) !important;
