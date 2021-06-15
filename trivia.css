@@ -117,14 +117,13 @@ a.selected-aXhQR6 {
 }
 /*Friend List*/
 a.selected-aXhQR6 .name-uJV0GL,
-a.selected-aXhQR6 .overflow-WK9Ogt,
-[aria-label^="Laurina0602"] .overflow-WK9Ogt,
-[aria-label^="kittyloe92_97"] .overflow-WK9Ogt,
-[aria-label^="tikagirl"] .overflow-WK9Ogt,
-[aria-label^="LLLeider"] .overflow-WK9Ogt,
-[aria-label^="birdgirl"] .overflow-WK9Ogt,
-[aria-label^="Mouson"] .overflow-WK9Ogt,
-[aria-label^="lolpowerluke"] .overflow-WK9Ogt { 
+[aria-label^="Laurina0602"] .name-uJV0GL,
+[aria-label^="kittyloe92_97"] .name-uJV0GL,
+[aria-label^="tikagirl"] .name-uJV0GL,
+[aria-label^="LLLeider"] .name-uJV0GL,
+[aria-label^="birdgirl"] .name-uJV0GL,
+[aria-label^="Mouson"] .name-uJV0GL,
+[aria-label^="lolpowerluke"] .name-uJV0GL { 
   animation: flow 10s ease-in-out infinite;
   background: linear-gradient(-60deg, #391ae9 40%, #ffffff 80%, #391ae9 100%);
   background-size: 300%;
