@@ -201,3 +201,11 @@ a.selected-aXhQR6 {
   display: block;
   visibility: visible;
 }
+/*Friend List*/
+.icon-15YQ1T {
+  color: white;
+}
+a.selected-aXhQR6 .subText-1KtqkB,
+a.selected-aXhQR6 .name-uJV0GL { 
+  color: var(--selcted-dm-color);
+}
