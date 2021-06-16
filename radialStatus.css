@@ -7,5 +7,5 @@
   --rs-offline-color: var(--offline);
   --rs-invisible-color: var(--offline);
   --rs-streaming-color: var(--streaming);
-  --rs-mobile-color: var(--online);
+  --rs-phone-color: var(--online);
 }
