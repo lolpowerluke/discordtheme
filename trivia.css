@@ -186,6 +186,7 @@ a.selected-aXhQR6 {
 }
 .contentContainer-1fklqj {
   border: 1px solid rgb(var(--border-color), var(--border-opacity));
+  border-radius: 10px;
   background-color: var(--back-color-boxes) !important;
 }
 /*Small Number Badges*/
