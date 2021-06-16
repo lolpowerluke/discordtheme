@@ -129,11 +129,10 @@
 /*Menu Popout Animation*/
 @keyframes menu {
   0% {
-    left: 50px;
+    transform: translateY(20px);
   }
 }
 .submenu-2-ysNh {
-  left: -11.5px;
   animation-name: menu;
   animation-duration: 0.4s;
   animation-timing-function: ease-in-out;
