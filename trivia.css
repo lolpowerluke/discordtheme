@@ -15,6 +15,12 @@
 .content-3YMskv {
   height: 850px !important;
 }
+.panels-j1Uci_ > .container-3baos1 > .flex-1xMQg5 {
+  pointer-events: none;
+}
+.panels-j1Uci_ > .container-3baos1 > .flex-1xMQg5 > .button-14-BFJ {
+  pointer-events: auto;
+}
 /*Account Background*/
 .activityPanel-28dQGo,
 .container-1giJp5,
