@@ -127,15 +127,17 @@
   border-right: 1px solid rgb(var(--border-color), var(--border-opacity));
 }
 /*Menu Popout Animation*/
-@keyframes menu {
-  0% {
-    transform: translateY(20px);
-  }
+.menu-3sdvDG {
+  animation: menu-open-animation 250ms ease;
+  transform-origin: top;
 }
-.submenu-2-ysNh {
-  animation-name: menu;
-  animation-duration: 0.4s;
-  animation-timing-function: ease-in-out;
+@keyframes menu-open-animation {
+  0% {
+    transform: scaleY(0);
+  }
+  100% {
+    transform: scaleY(1);
+  }
 }
 .labelContainer-1BLJti,
 .scroller-3BxosC {
