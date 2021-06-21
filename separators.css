@@ -125,6 +125,10 @@
   border: 1px solid rgb(var(--border-color), var(--border-opacity));
   border-radius: 10px;
 }
+.peopleListItem-2nzedh:nth-child(2):last-child:hover {
+  border: 1px solid rgb(var(--border-color-blue));
+  border-radius: 10px;
+}
 .peopleListItem-2nzedh:nth-child(2).active-rhSpJJ {
   border: 1px solid rgb(var(--border-color-blue));
   border-radius: 10px 10px 0px 0px;
