@@ -115,3 +115,9 @@
 .pointerEvents-2zdfdO {
   pointer-events: none;
 }
+/*CreationDate, LastMessageDate, JoinedAtDate plugins*/
+.root-3QyAh1 .date-YN6TCS {
+  margin-left: -5px;
+  width: fit-content;
+  max-width: 220px !important;
+}
