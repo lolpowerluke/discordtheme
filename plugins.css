@@ -121,3 +121,9 @@
   width: fit-content;
   max-width: 220px !important;
 }
+.root-3QyAh1 .date-YN6TCS:nth-last-child(3) {
+  margin-top: 16px;
+}
+.root-3QyAh1 .date-YN6TCS:last-child {
+  margin-bottom: 0px;
+}
