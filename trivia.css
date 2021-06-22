@@ -59,6 +59,20 @@ a.selected-aXhQR6 {
 .section-2gLsgF {
   background-color: black;
 }
+.itemCard-v9viV7:first-of-type {
+  margin-top: -8px;
+  border-radius: 8px 8px 0px 0px;
+  border-bottom: 0px;
+}
+.itemCard-v9viV7 {
+  margin-top: 0px;
+  border-radius: 0px;
+  border-bottom: 0px;
+}
+.itemCard-v9viV7:nth-last-of-type(2) {
+  border-radius: 0px 0px 8px 8px;
+  border: 1px solid rgb(var(--border-color), var(--border-opacity));
+}
 /*Search Bar*/
 .search-36MZv- {
   order: 1;
