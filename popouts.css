@@ -208,3 +208,12 @@
   border: 1px solid rgb(var(--border-color-blue));
   border-radius: 5px;
 }
+/*toasts*/
+.bd-toast {
+  border: 1px solid rgb(var(--border-color), var(--border-opacity));
+  background: black;
+}
+.toast {
+  background: black !important;
+  border: 1px solid rgb(var(--border-color), var(--border-opacity));
+}
