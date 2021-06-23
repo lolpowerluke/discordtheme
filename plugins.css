@@ -17,6 +17,10 @@
     border-color: var(--text-link) !important;
     background-color: var(--text-link-back) !important;
 }
+#app-mount .imageWrapper-2p5ogY:not(.image-1tIMwV) {
+  border-radius: 7px;
+  border: 1px solid rgb(var(--border-color), var(--border-opacity));
+}
 /*Platform Indicator Desktop*/
 .PI-indicatorContainer div[aria-label="Desktop: Online"] .PI-icon_desktop {color: var(--online) !important;}
 .PI-indicatorContainer div[aria-label="Desktop: Idle"] .PI-icon_desktop {color: var(--idle) !important;}
