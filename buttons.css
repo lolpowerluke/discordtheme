@@ -51,3 +51,9 @@
   color: var(--unread-pill);
   background-color: transparent;
 }
+/*Mark As Read Button In Chat*/
+.newMessagesBar-265mhP {
+  background-color: var(--back-color-boxes);
+  border: 1px solid rgb(var(--border-color), var(--border-opacity));
+  border-top: 0px;
+}
