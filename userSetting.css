@@ -37,3 +37,7 @@
 .bd-switch input:checked+.bd-switch-body {
   background: var(--switch-on) !important;
 }
+/*settingsIcons*/
+.sidebar-CFHs9e {
+  width: 218px;
+}
