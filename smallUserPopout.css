@@ -2,8 +2,6 @@
 .profileBanner-33-uE1 {
   border-radius: 10px 10px 0px 0px;
 }
-.headerTop-2cWpdB {
-}
 .userPopout-3XzG_A .date-YN6TCS,
 .headerText-15Q25Z {
   color: white !important;
@@ -16,11 +14,15 @@
   border-radius: 10px 10px 0px 0px;
   background: var(--user-popout);
 }
+.bodyInnerWrapper-26fQXj {
+  background: transparent;
+}
+.headerTop-3vNv-a,
 .theme-dark .body-3HBlXn {
   border: 1px solid rgba(var(--border-color), var(--border-opacity));
   border-bottom: 0px;
 }
-.theme-dark .footer-1N3bR3 {
+.theme-dark .footer-3UKYOU {
   border: 1px solid rgba(var(--border-color), var(--border-opacity));
   border-radius: 0px 0px 10px 10px;
 }
@@ -29,10 +31,12 @@
   margin-top: 3px;
   margin-bottom: -1px;
 }
+.footer-3UKYOU,
 .theme-dark .body-3HBlXn,
 .theme-dark .footer-1N3bR3 {
   background: var(--user-popout);
 }
+
 .footer-1fjuF6 .inputDefault-_djjkz {
   border: 1px solid rgba(var(--border-color), var(--border-opacity));
   border-top: 0px;
@@ -42,9 +46,19 @@
 .note-3HfJZ5 .input-cIJ7To:focus {
   background-color: var(--user-popout-alt);
 }
-.popoutBannerPremium-1n96gg {
+.popoutBanner-19WKGg {
   border-radius: 10px 10px 0px 0px;
   width: auto;
+}
+.avatarWrapper-3r9PdD {
+  border: 1px solid red;
+  border-bottom: 0px;
+}
+.popoutNoteCounter-62U4Rh {
+  position: absolute;
+  top: -21px;
+  left: 45px;
+  height: 0px;
 }
 /*Activity cards*/
 .activityUserPopout-2yItg2 {
