@@ -128,3 +128,38 @@
   background: inherit;
   opacity: 0.2;
 }
+/*Fake Popout In Settings*/
+.popoutBannerPremium-1n96gg,
+.bannerNormal-22rPhb {
+  border-radius: 10px 10px 0px 0px;
+  width: auto;
+}
+.popoutInfo-pKbpvG {
+  border: 1px solid rgb(var(--border-color), var(--border-opacity));
+  border-radius: 0px 0px 10px 10px;
+}
+.headerTop-3vNv-a {
+  background-color: var(--background-floating);
+}
+.popoutInfo-pKbpvG {
+  background-color: black;
+}
+.divider-ewBQKj {
+  height: 0px;
+}
+.popoutInfo-pKbpvG .headerTop-3vNv-a {
+  border: 0px;
+}
+.fakeActivityWrapper-2i1oU- {
+  border-radius: 5px;
+  margin: 15px 8px 15px 8px;
+  padding: 10px;
+  background: #120fa0b7;
+  border-bottom: 4px solid #1100ff;
+  border-top: 4px solid rgb(var(--spotify-color), var(--border-opacity));
+  border-left: 4px solid rgb(var(--playing-color));
+  border-right: 4px solid rgb(var(--streaming-color));
+  border-radius: 11px;
+  box-shadow: none;
+  background: #120fa0b7;
+}
