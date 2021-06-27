@@ -6,6 +6,18 @@
 .root-1gCeng:not(.modal-qgFCbT) {
   background: var(--user-popout);
 }
+.layer-2KE1M9 {
+  padding: 0;
+}
+/*Status and About Me*/
+.userInfoSection-q_35fn {
+  padding-top: 40px;
+}
+.customStatusActivity-nmH3DF {
+  position: absolute;
+  padding-top: 5px;
+  padding-left: 20px;
+}
 /*Profile Banner*/
 .profileBannerPremium-35utuo,
 .profileBanner-33-uE1 {
