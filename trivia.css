@@ -114,6 +114,9 @@ a.selected-aXhQR6 {
 	transition: width .6s;
 }
 /*Title Bar*/
+.wordmarkWindows-1v0lYD {
+  display: none;
+}
 .wordmark-2iDDfm svg {
   color: var(--title-bar-content-color);
 }
