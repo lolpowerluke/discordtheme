@@ -17,13 +17,16 @@
 .bodyInnerWrapper-26fQXj {
   background: transparent;
 }
-.headerTop-3vNv-a,
-.theme-dark .body-3HBlXn {
+.headerTop-3vNv-a {
   border: 1px solid rgba(var(--border-color), var(--border-opacity));
   border-bottom: 0px;
 }
+.theme-dark .body-3HBlXn {
+  border: 1px solid rgba(var(--border-color), var(--border-opacity));
+}
 .theme-dark .footer-3UKYOU {
   border: 1px solid rgba(var(--border-color), var(--border-opacity));
+  border-top: 0px;
   border-radius: 0px 0px 10px 10px;
 }
 .protip-2urNh2 {
