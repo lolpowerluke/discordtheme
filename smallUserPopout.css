@@ -32,6 +32,7 @@
   border: 1px solid rgba(var(--border-color), var(--border-opacity));
   border-radius: 10px;
   padding: 0px;
+  margin-top: 10px;
 }
 .protip-2urNh2 {
   height: 5px;
