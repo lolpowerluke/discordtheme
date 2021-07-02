@@ -14,6 +14,9 @@
   border-radius: 10px 10px 0px 0px;
   background: var(--user-popout);
 }
+.userPopout-xaxa6l {
+  background-color: black;
+}
 .bodyInnerWrapper-26fQXj {
   background: transparent;
 }
@@ -23,12 +26,12 @@
 }
 .theme-dark .body-3HBlXn {
   border: 1px solid rgba(var(--border-color), var(--border-opacity));
+  border-radius: 0px 0px 10px 10px;
 }
 .theme-dark .footer-3UKYOU {
   border: 1px solid rgba(var(--border-color), var(--border-opacity));
-  border-top: 0px;
-  border-radius: 0px 0px 10px 10px;
-  margin-top: 0px;
+  border-radius: 10px;
+  padding: 0px;
 }
 .protip-2urNh2 {
   height: 5px;
@@ -40,7 +43,6 @@
 .theme-dark .footer-1N3bR3 {
   background: var(--user-popout);
 }
-
 .footer-1fjuF6 .inputDefault-_djjkz {
   border: 1px solid rgba(var(--border-color), var(--border-opacity));
   border-top: 0px;
@@ -49,6 +51,10 @@
 }
 .note-3HfJZ5 .input-cIJ7To:focus {
   background-color: var(--user-popout-alt);
+}
+.input-cIJ7To {
+  border: 0px;
+  background-color: transparent;
 }
 .popoutBanner-19WKGg {
   border-radius: 10px 10px 0px 0px;
@@ -63,6 +69,10 @@
   top: -21px;
   left: 45px;
   height: 0px;
+}
+/*Message Box Input*/
+.input-2_SIlA {
+  border-radius: 10px;
 }
 /*Activity cards*/
 .activityUserPopout-2yItg2 {
