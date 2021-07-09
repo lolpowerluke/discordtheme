@@ -1,7 +1,7 @@
 # discordtheme
 repository for my Alan Walker theme
 
-# Avatar animation
+# Avatar animation (rotate 360deg once on hover)
 .avatar-1BDn8e:hover.clickable-1bVtEA:hover {
 animation: rotate .5s;
 }
