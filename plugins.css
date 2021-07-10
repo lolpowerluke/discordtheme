@@ -112,7 +112,8 @@
   border: 1px solid rgb(var(--border-color), var(--border-opacity));
 }
 /*Link Profile Picture*/
-.pointerEvents-2zdfdO {
+.focusLock-Ns3yie .pointerEvents-2zdfdO,
+.chatContent-a9vAAp .pointerEvents-2zdfdO {
   pointer-events: none;
 }
 /*CreationDate, LastMessageDate, JoinedAtDate plugins*/
