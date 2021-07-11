@@ -23,9 +23,19 @@
     @import url('https://lolpowerluke.github.io/discordtheme/buttons.css');
   /*Plugins*/
     @import url('https://lolpowerluke.github.io/discordtheme/plugins.css');
+  /*radialStatus*/
+    @import url('https://lolpowerluke.github.io/discordtheme/radialStatus.css');
+    @import url('https://lolpowerluke.github.io/discordtheme/rs-bigUserPopout.css');
+    @import url('https://lolpowerluke.github.io/discordtheme/rs-dmlist.css');
+    @import url('https://lolpowerluke.github.io/discordtheme/rs-friendlist.css');
+    @import url('https://lolpowerluke.github.io/discordtheme/rs-memberlist.css');
+    @import url('https://lolpowerluke.github.io/discordtheme/rs-playinglist.css');
+    @import url('https://lolpowerluke.github.io/discordtheme/rs-settingsAvatar.css');
+    @import url('https://lolpowerluke.github.io/discordtheme/rs-smallUserPopout.css');
+    @import url('https://lolpowerluke.github.io/discordtheme/rs-userArea.css');
   /*Other Stuff*/
     @import url('https://lolpowerluke.github.io/discordtheme/trivia.css');
-    @import url('https://lolpowerluke.github.io/discordtheme/radialStatus.css');
+/*all variables here*/
 :root {
   /*title bar*/
   --title-bar-content-color: blue;
