@@ -1,14 +1,3 @@
-:root {
-  --rs-online-color: var(--online);
-  --rs-idle-color: var(--idle);
-  --rs-dnd-color: var(--dnd);
-  --rs-offline-color: var(--offline);
-  --rs-invisible-color: var(--offline);
-  --rs-streaming-color: var(--streaming);
-  --rs-phone-color: var(--online);
-  --rs-version: "2.0.5";
-}
-
 #app-mount .focusLock-Ns3yie .wrapper-3t9DeA {
   border-radius: var(--rs-avatar-shape);
 }
