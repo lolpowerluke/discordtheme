@@ -1,35 +1,3 @@
-/**
- * @name         rs-memberlist
- * @description  radialstatus for memberlist
- * @author       lolpowerluke
- * @version      2.0
- * @authorLink   https://github.com/lolpowerluke/discordtheme
-*/
-
-:root {
-  --online: rgb(0, 255, 0);
-  --idle: rgb(255, 166, 0);
-  --dnd: rgb(255, 0, 0);
-  --offline: #747f8d;
-  --streaming: #a068ff;
-  --rs-small-spacing: 1px;
-  --rs-medium-spacing: 2px;
-  --rs-large-spacing: 1px;
-  --rs-small-width: 1px;
-  --rs-medium-width: 1px;
-  --rs-large-width: 1px;
-  --rs-avatar-shape: 50%;
-  --rs-phone-visible: none;
-  --rs-online-color: var(--online);
-  --rs-idle-color: var(--idle);
-  --rs-dnd-color: var(--dnd);
-  --rs-offline-color: var(--offline);
-  --rs-invisible-color: var(--offline);
-  --rs-streaming-color: var(--streaming);
-  --rs-phone-color: var(--online);
-  --rs-version: "2.0.5";
-}
-
 #app-mount .membersWrap-2h-GB4 .wrapper-3t9DeA {
   border-radius: var(--rs-avatar-shape);
 }
