@@ -45,3 +45,9 @@
 .sidebar-CFHs9e {
   padding-top: 30px;
 }
+/*profile banner*/
+.accountProfileCard-1XCH88 .UserBackgrounds-banner-container {
+  height: 90px;
+  display: block !important;
+  max-height: 700px;
+}
