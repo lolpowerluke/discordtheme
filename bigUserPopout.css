@@ -24,6 +24,11 @@
   width: auto;
   border-bottom: 1px solid rgb(var(--border-color), var(--border-opacity));
 }
+.UserBackgrounds-banner-container {
+  background-color: black;
+  height: unset;
+  max-height: 700px;
+}
 /*info/activity/server/friends*/
 .topSection-y3p-_D .tabBarContainer-37hZsr {
   padding-left: 300px;
@@ -128,7 +133,7 @@
 }
 /*Playing*/
 .activityProfile-2bJRaP {
-  margin: 15px 8px 15px 8px;
+  margin: 0px 8px 15px 15px;
   padding: 10px;
   background: var(--back-color-boxes);
   border-bottom: 4px solid rgb(var(--border-color-blue));
