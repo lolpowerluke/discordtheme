@@ -220,5 +220,5 @@
 /*Search*/
 .container-3ayLPN {
   background-color: black !important;
-  border: 1px solid blue;
+  border: 1px solid var(--border-color-blue);
 }
