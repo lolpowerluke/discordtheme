@@ -2,8 +2,10 @@
  * @name         Alan Walker Theme
  * @description  dark theme with Alan Walker's logo as background, credit to DevilBro#4401 for settingsicons, credit to Nyria#3863 for userbuttons in the serverbar and spotifyControls, credit to Gibbu#1211 for radialstatus
  * @author       lolpowerluke
- * @version      2.0
+ * @version      1.0.0
  * @authorLink   https://github.com/lolpowerluke/discordtheme
+ * @source       https://github.com/lolpowerluke/discordtheme/blob/main/alanWalker.theme.css
+ * @website      https://github.com/lolpowerluke
 */
 /*Imports*/
   /*USRBG*/
@@ -32,9 +34,10 @@
     @import url('https://lolpowerluke.github.io/discordtheme/rs-playinglist.css');
     @import url('https://lolpowerluke.github.io/discordtheme/rs-settingsAvatar.css');
     @import url('https://lolpowerluke.github.io/discordtheme/rs-smallUserPopout.css');
-    @import url('https://lolpowerluke.github.io/discordtheme/rs-userArea.css');
-    @import url('https://lolpowerluke.github.io/discordtheme/rs-chat.css');
+    @import url('https://lolpowerluke.github.io/discordtheme/rs-userArea.css');/*
+    @import url('https://lolpowerluke.github.io/discordtheme/rs-chat.css');*/
   /*Other Stuff*/
+  @import url('https://lolpowerluke.github.io/discordtheme/version.css');
     @import url('https://lolpowerluke.github.io/discordtheme/trivia.css');
 /*all variables here*/
 :root {
@@ -85,6 +88,7 @@
   --dnd: rgb(255, 0, 0);
   --offline: #747f8d;
   --streaming: #a068ff;
+  /*Radial Status Stuff*/
   --rs-small-spacing: 1px;
   --rs-medium-spacing: 2px;
   --rs-large-spacing: 1px;
@@ -167,5 +171,6 @@
   --scrollbar-auto-scrollbar-color-track: blue;
   /*Link Preview*/
   --linkpreview-background: transparent;
+  /*Version*/
+  --version-1-0-0: none;
 }
-/*add other css here*/
