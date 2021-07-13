@@ -215,6 +215,7 @@ a.selected-aXhQR6 {
   background-color: var(--back-color-boxes) !important;
 }
 /*Small Number Badges*/
+.UnreadCountBadges-badge-channelUnread,
 .topPill-30KHOu .numberBadge-2s8kKX {
   background-color: var(--back-color-number-badges) !important;
 }
