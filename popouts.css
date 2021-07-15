@@ -126,7 +126,7 @@
   border-left: 1px solid rgb(var(--border-color), var(--border-opacity));
   border-right: 1px solid rgb(var(--border-color), var(--border-opacity));
 }
-/*Menu Popout Animation*/
+/*Menu Popout*/
 .menu-3sdvDG {
   animation: menu-open-animation 250ms ease;
   transform-origin: top;
@@ -155,6 +155,19 @@
   padding-left: 10px;
   margin-top: 2px;
   margin-bottom: 2px;
+}
+.colorDefault-2K3EoJ.focused-3afm-j {
+  background-color: red;
+}
+[aria-hidden="false"].icon-LYJorE {
+  color: red;
+}
+[aria-hidden="false"].icon-LYJorE path {
+  background-color: black;
+}
+.check-1JyqgN {
+  color: red !important;
+  background-color: red !important;
 }
 /*Start Stage Popout*/
 .illustration-3d7_Ms {
