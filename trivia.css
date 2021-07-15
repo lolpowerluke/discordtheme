@@ -53,6 +53,9 @@ a.selected-aXhQR6 {
   background-color: var(--back-color-boxes);
   border: 1px solid rgb(var(--border-color), var(--border-opacity));
 }
+.theme-dark .outer-1AjyKL.active-1xchHY {
+  background-color: var(--back-color-boxes);
+}
 .wrapper-3D2qGf:hover {
   background-color: var(--back-color-boxes-hover) !important;
 }
