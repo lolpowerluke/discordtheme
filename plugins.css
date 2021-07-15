@@ -128,3 +128,31 @@
 .root-3QyAh1 .date-YN6TCS:last-child {
   margin-bottom: 0px;
 }
+/*serverDetails*/
+.detailsTooltip-G9hSSa .row-1c01mR.extraRow-6F2Dss {
+  min-width: 500px !important;
+  margin-top: 85px
+}    
+.detailsTooltip-G9hSSa .row-1c01mR.extraRow-6F2Dss > div {
+  display: grid;
+  grid-template-columns: 50% 50%
+}
+.detailsTooltip-G9hSSa div.icon-hSL42R {
+  font-size: 14px
+}
+.detailsTooltip-G9hSSa .row-1c01mR.extraRow-6F2Dss > div > img,
+.detailsTooltip-G9hSSa .icon-hSL42R {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  top: 7px;
+  border-radius: 50%;
+}
+.detailsTooltip-G9hSSa .row-1c01mR.rowGuildName-2wU3B_ {
+  white-space: nowrap;
+  overflow: hidden;
+  max-width: 470px;
+  position: absolute;
+  top: 40px;
+  left: 105px;
+}
