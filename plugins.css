@@ -53,8 +53,11 @@
 }
 /*dateViewer*/
 #dv-mount {
-  max-height: 65px;
+  max-height: 80px;
   background-color: var(--back-date-viewer) !important;
+}
+.membersWrap-2h-GB4 .members-1998pB {
+  height: calc(100% - 80px) !important;
 }
 /*Permission Viewer*/
 .inner-1ilYF7 .header{
