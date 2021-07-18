@@ -169,6 +169,9 @@
   color: red !important;
   background-color: red !important;
 }
+.colorDefault-2K3EoJ:active:not(.hideInteraction-1iHO1O) {
+  background-color: red;
+}
 /*Start Stage Popout*/
 .illustration-3d7_Ms {
   border: 1px solid rgb(var(--border-color), var(--border-opacity));
