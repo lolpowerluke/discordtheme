@@ -350,7 +350,8 @@ a.selected-aXhQR6 .name-uJV0GL {
 .containerDefault--pIXnN:hover + .containerDefault--pIXnN .content-1x5b-n {
   border-top: 0px;
 }
-.containerDefault-3tr_sE::before {
+.containerDefault--pIXnN:hover + .containerDefault-3tr_sE::before {
+  border-top: 0px;
   height: 9px;
 }
 .containerDefault--pIXnN:hover + .containerDefault-3tr_sE {
