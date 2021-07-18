@@ -337,11 +337,22 @@ a.selected-aXhQR6 .name-uJV0GL {
   top: -1px;
   border: 1px solid rgb(var(--border-color), var(--border-opacity));
   border-radius: 0px 0px 8px 8px;
-  border-top: 0px;
 }
 .content-3YMskv :nth-of-type(2).containerDefault-3tr_sE::before {
   display: none;
 }
 .containerDefault--pIXnN .content-1x5b-n:hover {
   border-color: rgb(var(--border-color-blue)) !important;
+}
+.containerDefault--pIXnN .content-1x5b-n:hover {
+  border-bottom: 1px solid rgb(var(--border-color-blue)) !important;
+}
+.containerDefault--pIXnN:hover + .containerDefault--pIXnN .content-1x5b-n {
+  border-top: 0px;
+}
+.containerDefault-3tr_sE::before {
+  height: 9px;
+}
+.containerDefault--pIXnN:hover + .containerDefault-3tr_sE {
+  margin-top: -1px;
 }
