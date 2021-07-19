@@ -364,3 +364,6 @@ a.selected-aXhQR6 .name-uJV0GL {
   border: 1px solid rgb(var(--border-color), var(--border-opacity));
   border-radius: 8px;
 }
+.containerDefault--pIXnN:nth-child(3) .content-1x5b-n {
+  border-radius: 8px;
+}
