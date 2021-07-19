@@ -84,6 +84,9 @@ a.selected-aXhQR6 {
   border-radius: 8px 8px 0px 0px;
   border-bottom: 0px;
 }
+.itemCard-v9viV7:hover + div[style*="height: 16px;"] {
+  background-color: var(--back-color-boxes-hover);
+}
 .itemCard-v9viV7 + div[style*="height: 16px;"] {
   width: unset !important;
   background-color: var(--back-color-boxes);
