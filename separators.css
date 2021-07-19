@@ -75,10 +75,10 @@
 .peopleListItem-2nzedh:nth-child(2) {
   border: 1px solid rgb(var(--border-color), var(--border-opacity));
   border-radius: 10px 10px 0px 0px;
+  border-bottom: 0px;
 }
 .peopleListItem-2nzedh:last-child {
   border: 1px solid rgb(var(--border-color), var(--border-opacity));
-  border-top: 0px;
   border-radius: 0px 0px 10px 10px;
 }
 .peopleListItem-2nzedh {
@@ -117,6 +117,7 @@
 .peopleListItem-2nzedh:nth-last-child(2):hover+.peopleListItem-2nzedh {
   border: 1px solid rgb(var(--border-color), var(--border-opacity));
   border-radius: 0px 0px 10px 10px;
+  border-top: 0px;
 }
 .peopleListItem-2nzedh:hover+.peopleListItem-2nzedh:hover {
   border: 1px solid rgb(var(--border-color-blue));
