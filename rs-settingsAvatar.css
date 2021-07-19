@@ -188,13 +188,3 @@
   -webkit-clip-path: none !important;
           clip-path: none !important;
 }
-
-.userInfo-2zN2z8,
-.peopleListItem-2nzedh {
-  overflow: visible;
-}
-
-.info-1VyQPT .colorMuted-HdFt4q:last-child:after {
-  content: "RadialStatus " var(--rs-version);
-  display: block;
-}
