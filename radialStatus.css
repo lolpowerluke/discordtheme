@@ -14,3 +14,12 @@
 #app-mount .focusLock-Ns3yie .wrapper-3t9DeA foreignObject[mask*=mobile] {
   width: 153px;
 }
+.userInfo-2zN2z8,
+.peopleListItem-2nzedh {
+  overflow: visible;
+}
+
+.info-1VyQPT .colorMuted-HdFt4q:last-child:after {
+  content: "RadialStatus " var(--rs-version);
+  display: block;
+}
