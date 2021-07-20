@@ -57,3 +57,12 @@
   border: 1px solid rgb(var(--border-color), var(--border-opacity));
   border-top: 0px;
 }
+/*Upload Button*/
+.attachButtonInner-PQjIyk svg {
+  background-color: rgb(25, 0, 255);
+  border-radius: 50%;
+}
+.attachButton-2WznTc:hover .attachButtonPlus-jWVFah,
+.attachButtonPlus-jWVFah {
+  fill: black;
+}
