@@ -368,3 +368,22 @@ a.selected-aXhQR6 .name-uJV0GL {
 .containerDefault--pIXnN:nth-child(3) .content-1x5b-n {
   border-radius: 8px;
 }
+/*Crown and Border*/
+[data-user-id="398131626695196672"] .wrapper-3t9DeA::before {
+  content: "";
+  width: 15px;
+  height: 15px;
+  transform: rotate(-45deg);
+  color: white;
+  top: -6px;
+  left: -5px;
+  position: absolute;
+  background-image: url(https://i.imgur.com/Zofg5Ra.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.message-2qnXI6 [data-user-id="398131626695196672"] .wrapper-3t9DeA {
+  border: 1px solid rgb(var(--border-color-blue));
+  width: 39px !important;
+  height: 39px !important;
+}
