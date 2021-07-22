@@ -404,6 +404,9 @@ a.selected-aXhQR6 .name-uJV0GL {
 .containerDefault-3tr_sE + .ring-13rgEW::after {
   display: none;
 }
+.containerDefault--pIXnN:hover + .ring-13rgEW {
+  margin-top: -56px;
+}
 /*Crown and Border*/
 [data-user-id="398131626695196672"] .wrapper-3t9DeA::before {
   content: "";
