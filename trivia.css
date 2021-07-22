@@ -357,10 +357,6 @@ a.selected-aXhQR6 .name-uJV0GL {
 .containerDefault--pIXnN:hover + .containerDefault-3tr_sE {
   margin-top: -1px;
 }
-.containerDefault-3tr_sE[draggable="true"] + .containerDefault--pIXnN:last-of-type .content-1x5b-n {
-  border: 1px solid rgb(var(--border-color), var(--border-opacity));
-  border-radius: 8px;
-}
 .containerDefault--pIXnN:nth-child(3) .content-1x5b-n {
   border-radius: 8px;
 }
