@@ -400,6 +400,7 @@ a.selected-aXhQR6 .name-uJV0GL {
 }
 .containerDefault--pIXnN:hover::after {
   border-top: 0px;
+  margin-bottom: 1px;
 }
 .containerDefault-3tr_sE + .ring-13rgEW::after {
   display: none;
@@ -425,7 +426,4 @@ a.selected-aXhQR6 .name-uJV0GL {
   border: 1px solid rgb(var(--border-color-blue));
   width: 39px !important;
   height: 39px !important;
-}
-.containerDefault--pIXnN:hover::after {
-  margin-bottom: 1px;
 }
