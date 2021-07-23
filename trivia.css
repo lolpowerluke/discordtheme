@@ -390,7 +390,7 @@ a.selected-aXhQR6 .name-uJV0GL {
   width: calc(100% - 10px);
   margin-left: 8px;
   height: 8px;
-  bottom: -8px;
+  bottom: -9px;
   border: 1px solid rgb(var(--border-color), var(--border-opacity));
   border-radius: 0px 0px 8px 8px;
 }
@@ -421,9 +421,6 @@ a.selected-aXhQR6 .name-uJV0GL {
 }
 .content-1Wq3SX .ownerIcon-2NH9FM {
   margin-right: 9px;
-}
-.containerDefault--pIXnN:last-of-type::after {
-  bottom: -10px;
 }
 .containerDefault--pIXnN:hover .list-2luk8a :first-child.draggable-2E_4tJ {
   margin-top: -1px;
