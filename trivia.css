@@ -358,7 +358,7 @@ a.selected-aXhQR6 .name-uJV0GL {
   margin-top: -1px;
 }
 .containerDefault--pIXnN:nth-child(3) .content-1x5b-n {
-  border-radius: 8px;
+  border-radius: 8px 8px 0px 0px;
 }
 .containerDefault-3tr_sE + .containerDefault-3tr_sE::before {
   display: none;
