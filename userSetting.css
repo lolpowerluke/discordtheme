@@ -47,7 +47,7 @@
 }
 /*profile banner*/
 .accountProfileCard-1XCH88 > .UserBackgrounds-banner-container {
-  height: 200px;
+  height: 400px;
 }
 .accountProfileCard-1XCH88 > .UserBackgrounds-banner-container > :last-child {
   width: 100%;
@@ -55,5 +55,5 @@
   height: 100%;
 }
 .avatar-1uQSZT {
-  top: 190px;
+  top: 390px;
 }
