@@ -430,7 +430,7 @@ a.selected-aXhQR6 .name-uJV0GL {
   border-bottom: 1px solid rgb(var(--border-color-blue));
 }
 /*Crown and Border*/
-[data-user-id="398131626695196672"] .wrapper-3t9DeA::before {
+#app-mount [data-user-id="398131626695196672"] .wrapper-3t9DeA::before {
   content: "";
   width: 15px;
   height: 15px;
@@ -443,7 +443,7 @@ a.selected-aXhQR6 .name-uJV0GL {
   background-repeat: no-repeat;
   background-size: contain;
 }
-.message-2qnXI6 [data-user-id="398131626695196672"] .wrapper-3t9DeA {
+#app-mount .message-2qnXI6 [data-user-id="398131626695196672"] .wrapper-3t9DeA {
   border: 1px solid rgb(var(--border-color-blue));
   width: 39px !important;
   height: 39px !important;
