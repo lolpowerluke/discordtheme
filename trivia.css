@@ -501,3 +501,9 @@ a.selected-aXhQR6 .name-uJV0GL {
 ::-webkit-scrollbar-track {
   background-color: rgb(var(--border-color-blue), var(--border-opacity))!important;
 }
+.scrollerBase-289Jih::-webkit-scrollbar,
+.membersWrap-2h-GB4 .members-1998pB::-webkit-scrollbar,
+.scrollableContainer-2NUZem::-webkit-scrollbar,
+.sidebar-2K8pFh .container-3w7J-x .scroller-RmtA4e::-webkit-scrollbar {
+  display: none;
+}
