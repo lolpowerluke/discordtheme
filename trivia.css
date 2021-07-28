@@ -430,6 +430,51 @@ a.selected-aXhQR6 .name-uJV0GL {
   border-color: rgb(var(--border-color-blue));
   border-bottom: 1px solid rgb(var(--border-color-blue));
 }
+.containerDefault-3tr_sE::before,
+.containerDefault--pIXnN:last-of-type::after {
+  margin-right: 8px;
+  width: calc(100% - 18px);
+}
+.containerDefault--pIXnN .content-1x5b-n {
+  margin-right: 8px;
+}
+.CollapsibleThreads-Collapser-collapser + .container-3JKcAb .containerDefault--pIXnN:last-of-type::after {
+  display: none;
+}
+.container-3JKcAb .containerDefault--pIXnN .content-1x5b-n {
+  margin-left: 8px;
+}
+.sidebar-2K8pFh .CollapsibleThreads-Collapser-collapser:hover {
+  border-color: rgb(var(--border-color-blue));
+  border-bottom: 1px solid rgb(var(--border-color-blue));
+}
+.sidebar-2K8pFh .CollapsibleThreads-Collapser-collapser {
+  margin-left: 8px;
+  margin-right: 8px;
+  margin-top: -1px;
+  margin-bottom: 1px;
+  border: 1px solid rgb(var(--border-color), var(--border-opacity));
+  border-bottom: 0px;
+}
+.containerDefault--pIXnN:hover + .CollapsibleThreads-Collapser-collapser {
+  border-top: 0px;
+}
+.sidebar-2K8pFh .CollapsibleThreads-Collapser-collapser:hover + .container-3JKcAb .containerDefault--pIXnN .content-1x5b-n {
+  border-top: 0px;
+}
+.container-3JKcAb:hover + .containerDefault--pIXnN .content-1x5b-n {
+  border-top: 0px;
+}
+.container-3JKcAb:hover .containerDefault--pIXnN .content-1x5b-n {
+  border-color: rgb(var(--border-color-blue));
+  border-bottom: 1px solid rgb(var(--border-color-blue));
+}
+.spine--Wla_O {
+  display: none;
+}
+.CollapsibleThreads-Collapser-collapser:hover + .containerDefault--pIXnN .content-1x5b-n {
+  border-top: 0px;
+}
 /*Crown and Border*/
 #app-mount [data-user-id="398131626695196672"] .wrapper-3t9DeA::before {
   content: "";
