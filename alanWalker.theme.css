@@ -37,8 +37,9 @@
     @import url('https://lolpowerluke.github.io/discordtheme/rs-userArea.css');/*
     @import url('https://lolpowerluke.github.io/discordtheme/rs-chat.css');*/
   /*Other Stuff*/
-  @import url('https://lolpowerluke.github.io/discordtheme/version.css');
+    @import url('https://lolpowerluke.github.io/discordtheme/version.css');
     @import url('https://lolpowerluke.github.io/discordtheme/trivia.css');
+    @import url('https://lolpowerluke.github.io/discordtheme/smallDMchannelList.css');
 /*all variables here*/
 :root {
   /*title bar*/
