@@ -1,0 +1,58 @@
+/*small dm/channel list*/
+.sidebar-2K8pFh {
+  width: 60px;
+  transition: width 0.5s;
+}
+.sidebar-2K8pFh:hover {
+  width: 240px;
+  transition: width 0.5s;
+}
+.pinnedChannelsHeaderContainer-89Gjv4 .headerAmount-_-7GrS {
+  margin-left: -15px;
+}
+.container-6sXIoE.withTimeline-824fT_ .coverWrapper-YAplwJ {
+  margin-left: 6px;
+}
+.sidebar-2K8pFh:hover .RestoreDirectMessages-style-button,
+.sidebar-2K8pFh:hover .barText-lmqc5O :first-child,
+.sidebar-2K8pFh:hover .pinnedChannelsHeaderContainer-89Gjv4 .headerAmount-_-7GrS,
+.sidebar-2K8pFh:hover .container-6sXIoE.withTimeline-824fT_ .coverWrapper-YAplwJ {
+  margin-left: 0px;
+}
+.container-6sXIoE.withTimeline-824fT_,
+.container-6sXIoE .bar-g2ZMIm {
+  width: 60px !important;
+  transition: width 0.5s;
+}
+.sidebar-2K8pFh:hover .container-6sXIoE.withTimeline-824fT_,
+.sidebar-2K8pFh:hover .container-6sXIoE .bar-g2ZMIm {
+  width: 240px !important;
+  transition: width 0.5s;
+}
+.panels-j1Uci_ {
+  background-color: var(--back-account);
+}
+.barText-lmqc5O :first-child {
+  margin-left: -5px;
+}
+.barText-lmqc5O :last-child {
+  margin-right: -5px;
+}
+.sidebar-2K8pFh:hover .barText-lmqc5O :last-child {
+  margin-right: 0px;
+}
+.containerDefault--pIXnN.selected-3LIHYU .iconItem-F7GRxr,
+.containerDefault--pIXnN .name-23GUGE,
+.RestoreDirectMessages-style-divider,
+.searchBar-6Kv8R2 .searchBarComponent-32dTOx {
+  display: none;
+}
+.containerDefault--pIXnN.selected-3LIHYU:hover .iconItem-F7GRxr,
+.sidebar-2K8pFh:hover .containerDefault--pIXnN .name-23GUGE,
+.sidebar-2K8pFh:hover .RestoreDirectMessages-style-divider,
+.sidebar-2K8pFh:hover .searchBar-6Kv8R2 .searchBarComponent-32dTOx {
+  display: block;
+}
+.RestoreDirectMessages-style-button {
+  margin-left: 10px;
+}
