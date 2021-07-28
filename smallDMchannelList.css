@@ -41,12 +41,14 @@
 .sidebar-2K8pFh:hover .barText-lmqc5O :last-child {
   margin-right: 0px;
 }
+.CollapsibleThreads-Collapser-collapser .colorStandard-2KCXvj,
 .containerDefault--pIXnN.selected-3LIHYU .iconItem-F7GRxr,
 .containerDefault--pIXnN .name-23GUGE,
 .RestoreDirectMessages-style-divider,
 .searchBar-6Kv8R2 .searchBarComponent-32dTOx {
   display: none;
 }
+.sidebar-2K8pFh:hover .CollapsibleThreads-Collapser-collapser .colorStandard-2KCXvj,
 .containerDefault--pIXnN.selected-3LIHYU:hover .iconItem-F7GRxr,
 .sidebar-2K8pFh:hover .containerDefault--pIXnN .name-23GUGE,
 .sidebar-2K8pFh:hover .RestoreDirectMessages-style-divider,
