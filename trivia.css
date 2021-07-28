@@ -449,3 +449,10 @@ a.selected-aXhQR6 .name-uJV0GL {
   width: 39px !important;
   height: 39px !important;
 }
+/*scrollbar*/
+::-webkit-scrollbar-thumb {
+  background-color: rgb(var(--border-color-blue), var(--border-opacity-blue)) !important;
+}
+::-webkit-scrollbar-track {
+  background-color: rgb(var(--border-color-blue), var(--border-opacity))!important;
+}
