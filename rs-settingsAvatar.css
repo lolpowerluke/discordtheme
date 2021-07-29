@@ -88,9 +88,6 @@
   ry: calc(var(--rs-avatar-shape) * 3.3);
   rx: calc(var(--rs-avatar-shape) * 3.3);
 }
-#app-mount .accountProfileCard-1XCH88 [data-mobile="true"] .wrapper-3t9DeA[style*="40px"] foreignObject img {
-  width: calc(100% - 12px);
-}
 #app-mount .accountProfileCard-1XCH88 .wrapper-3t9DeA[style*="80px"] svg.cursorDefault-dsQJ1n rect {
   x: -48;
   y: -52;
