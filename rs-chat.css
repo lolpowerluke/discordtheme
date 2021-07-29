@@ -203,15 +203,3 @@
 #app-mount .messagesWrapper-1sRNjr .wrapper-3t9DeA[style*="40px"] > svg > svg rect {
   display: none;
 }
-.pointerEvents-2zdfdO[width="30"] {
-  width: 40px !important;
-}
-.userInfo-2zN2z8,
-.peopleListItem-2nzedh {
-  overflow: visible;
-}
-
-.info-1VyQPT .colorMuted-HdFt4q:last-child:after {
-  content: "RadialStatus " var(--rs-version);
-  display: block;
-}
