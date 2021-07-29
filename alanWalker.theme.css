@@ -1,8 +1,8 @@
 /**
  * @name         Alan Walker Theme
- * @description  dark theme with Alan Walker's logo as background, credit to DevilBro#4401 for settingsicons, credit to Nyria#3863 for userbuttons in the serverbar and spotifyControls, credit to Gibbu#1211 for radialstatus
+ * @description  dark theme with Alan Walker's logo as background, make sure to add StatusEverywhere to make sure radialStatus works correctly, credit to DevilBro#4401 for settingsicons, credit to Nyria#3863 for userbuttons in the serverbar and spotifyControls, credit to Gibbu#1211 for radialstatus
  * @author       lolpowerluke
- * @version      1.0.3
+ * @version      1.0.4
  * @authorLink   https://github.com/lolpowerluke/discordtheme
  * @source       https://github.com/lolpowerluke/discordtheme/blob/main/alanWalker.theme.css
  * @website      https://github.com/lolpowerluke
@@ -174,5 +174,5 @@
   /*Link Preview*/
   --linkpreview-background: transparent;
   /*Version*/
-  --version-1-0-3: none;
+  --version-1-0-4: none;
 }
