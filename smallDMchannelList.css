@@ -41,6 +41,13 @@
 .sidebar-2K8pFh:hover .barText-lmqc5O :last-child {
   margin-right: 0px;
 }
+.total-i6us2n:after,
+.role-2irmRk,
+.containerDefault--pIXnN .usernameFont-23TX-h,
+.click-to-chat-btn,
+.containerDefault--pIXnN .icons-1dXQdz,
+.sidebar-2K8pFh .info-WdNIDE,
+.sidebar-2K8pFh .actions-aUdUfC,
 .CollapsibleThreads-Collapser-collapser .colorStandard-2KCXvj,
 .containerDefault--pIXnN.selected-3LIHYU .iconItem-F7GRxr,
 .containerDefault--pIXnN .name-23GUGE,
@@ -48,6 +55,11 @@
 .searchBar-6Kv8R2 .searchBarComponent-32dTOx {
   display: none;
 }
+.sidebar-2K8pFh:hover .total-i6us2n:after,
+.container-3JKcAb .containerDefault--pIXnN .name-23GUGE,
+.sidebar-2K8pFh:hover .usernameFont-23TX-h,
+.sidebar-2K8pFh:hover .click-to-chat-btn,
+.sidebar-2K8pFh:hover .icons-1dXQdz,
 .sidebar-2K8pFh:hover .CollapsibleThreads-Collapser-collapser .colorStandard-2KCXvj,
 .containerDefault--pIXnN.selected-3LIHYU:hover .iconItem-F7GRxr,
 .sidebar-2K8pFh:hover .containerDefault--pIXnN .name-23GUGE,
@@ -61,19 +73,8 @@
 .containerDefault--pIXnN .list-2luk8a {
   width: calc(100% - 24px);
 }
-.role-2irmRk,
-.containerDefault--pIXnN .usernameFont-23TX-h,
-.click-to-chat-btn,
-.containerDefault--pIXnN .icons-1dXQdz {
-  display: none;
-}
 .sidebar-2K8pFh:hover .role-2irmRk {
   display: inline-flex;
-}
-.sidebar-2K8pFh:hover .usernameFont-23TX-h,
-.sidebar-2K8pFh:hover .click-to-chat-btn,
-.sidebar-2K8pFh:hover .icons-1dXQdz {
-  display: block;
 }
 .users-3kndPl {
   margin-top: -5px;
@@ -103,12 +104,6 @@
   font-size: 9px;
   display: block;
 }
-.total-i6us2n:after {
-  display: none;
-}
-.sidebar-2K8pFh:hover .total-i6us2n:after {
-  display: block;
-}
 .ti-indicator {
   transform: rotate(-90deg);
   margin-right: -10px;
@@ -121,6 +116,15 @@
   transform: rotate(0deg);
   margin: 0px;
 }
-.container-3JKcAb .containerDefault--pIXnN .name-23GUGE {
-  display: block;
+.sidebar-2K8pFh:hover .info-WdNIDE,
+.sidebar-2K8pFh:hover .actions-aUdUfC {
+  display: flex;
+}
+.gameIconWrapper-1YByCI {
+  margin-left: 6px;
+  transition: margin-left 0.3s;
+}
+.sidebar-2K8pFh:hover .gameIconWrapper-1YByCI {
+  margin-left: 0px;
+  transition: margin-left 0.3s;
 }
