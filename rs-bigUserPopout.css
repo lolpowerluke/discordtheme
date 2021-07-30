@@ -106,8 +106,8 @@
   y: -76;
 }
 #app-mount .focusLock-Ns3yie .topSection-y3p-_D .wrapper-3t9DeA[style*="120px"] rect {
-  width: 120px;
-  height: 120px;
+  width: var(--avatar-width-2);
+  height: var(--avatar-width-2);
   stroke-width: var(--rs-large-width);
 }
 #app-mount .focusLock-Ns3yie .topSection-y3p-_D .wrapper-3t9DeA[style*="120px"] img {
