@@ -124,10 +124,10 @@
 #app-mount .messagesWrapper-1sRNjr .wrapper-3t9DeA[style="width: 16px; height: 16px;"] img {
   -webkit-clip-path: none;
           clip-path: none;
-}
+}/*
 #app-mount .messagesWrapper-1sRNjr [data-mobile="true"] .wrapper-3t9DeA foreignObject {
   width: calc(100% + 4px);
-}
+}*/
 #app-mount .messagesWrapper-1sRNjr [data-mobile="true"] .wrapper-3t9DeA foreignObject[width="32"] img {
   width: calc(100% - 12px);
 }
