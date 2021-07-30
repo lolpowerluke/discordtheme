@@ -2,7 +2,7 @@
  * @name         Alan Walker Theme
  * @description  dark theme with Alan Walker's logo as background, make sure to add StatusEverywhere to make sure radialStatus works correctly, credit to DevilBro#4401 for settingsicons, credit to Nyria#3863 for userbuttons in the serverbar and spotifyControls, credit to Gibbu#1211 for radialstatus
  * @author       lolpowerluke
- * @version      1.0.4
+ * @version      1.0.5
  * @authorLink   https://github.com/lolpowerluke/discordtheme
  * @source       https://github.com/lolpowerluke/discordtheme/blob/main/alanWalker.theme.css
  * @website      https://github.com/lolpowerluke
@@ -34,8 +34,9 @@
     @import url('https://lolpowerluke.github.io/discordtheme/rs-playinglist.css');
     @import url('https://lolpowerluke.github.io/discordtheme/rs-settingsAvatar.css');
     @import url('https://lolpowerluke.github.io/discordtheme/rs-smallUserPopout.css');
-    @import url('https://lolpowerluke.github.io/discordtheme/rs-userArea.css');/*
+    @import url('https://lolpowerluke.github.io/discordtheme/rs-userArea.css');
     @import url('https://lolpowerluke.github.io/discordtheme/rs-chat.css');*/
+    @import url("https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css");
   /*Other Stuff*/
     @import url('https://lolpowerluke.github.io/discordtheme/version.css');
     @import url('https://lolpowerluke.github.io/discordtheme/trivia.css');
@@ -174,5 +175,5 @@
   /*Link Preview*/
   --linkpreview-background: transparent;
   /*Version*/
-  --version-1-0-4: none;
+  --version-1-0-5: none;
 }
