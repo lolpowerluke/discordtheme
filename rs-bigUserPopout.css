@@ -138,10 +138,10 @@
   width: 14px;
   height: 18px;
   top: 75%;
-}
+}/*
 #app-mount .focusLock-Ns3yie .topSection-y3p-_D [data-mobile="true"] .wrapper-3t9DeA foreignObject[width="120"] img {
   width: calc(100% - 22px);
-}
+}*/
 #app-mount .focusLock-Ns3yie .topSection-y3p-_D [data-mobile="true"] .wrapper-3t9DeA foreignObject[width="120"]:after {
   width: 24px;
   height: 20px;
