@@ -56,12 +56,6 @@
   border-right: 1px solid black;
   transform: rotate(45deg);
 }
-#app-mount .focusLock-Ns3yie .avatarWrapper .wrapper-3t9DeA[style*="120px"] rect {
-  width: var(--avatar-width-2);
-  height: var(--avatar-width-2);
-  y: -8px;
-  x: -2px;
-}
 #app-mount .focusLock-Ns3yie .wrapper-3t9DeA foreignObject {
   border-radius: var(--rs-avatar-shape);
   width: var(--avatar-width-2);
