@@ -199,3 +199,7 @@
 #app-mount .focusLock-Ns3yie .topSection-y3p-_D .wrapper-3t9DeA[style*="40px"] > svg > svg rect {
   display: none;
 }
+#app-mount .focusLock-Ns3yie .avatarWrapper .wrapper-3t9DeA[style*="120px"] rect {
+  y: -8px;
+  x: -2px;
+}
