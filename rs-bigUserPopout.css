@@ -51,13 +51,13 @@
 #app-mount .focusLock-Ns3yie .topSection-y3p-_D [data-status="idle"] .wrapper-3t9DeA > svg > rect {
   stroke: var(--rs-idle-color);
 }
-#app-mount .focusLock-Ns3yie .topSection-y3p-_D [data-status="dnd"] .wrapper-3t9DeA r> svg > rect {
+#app-mount .focusLock-Ns3yie .topSection-y3p-_D [data-status="dnd"] .wrapper-3t9DeA > svg > rect {
   stroke: var(--rs-dnd-color);
 }
 #app-mount .focusLock-Ns3yie .topSection-y3p-_D [data-status="streaming"] .wrapper-3t9DeA > svg > rect {
   stroke: var(--rs-streaming-color);
 }
-#app-mount .focusLock-Ns3yie .topSection-y3p-_D [data-status="offline"] .wrapper-3t9DeA r> svg > rect {
+#app-mount .focusLock-Ns3yie .topSection-y3p-_D [data-status="offline"] .wrapper-3t9DeA > svg > rect {
   stroke: var(--rs-offline-color);
 }
 #app-mount .focusLock-Ns3yie .topSection-y3p-_D [data-status="invisible"] .wrapper-3t9DeA > svg > rect {
