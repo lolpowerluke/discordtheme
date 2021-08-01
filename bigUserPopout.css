@@ -56,14 +56,14 @@
   border-right: 1px solid black;
   transform: rotate(45deg);
 }
-#app-mount .focusLock-Ns3yie .root-1gCeng:not(.bd-addon-modal) .wrapper-3t9DeA foreignObject {
+#app-mount .focusLock-Ns3yie .root-1gCeng:not(.bd-addon-modal) .topSection-y3p-_D .wrapper-3t9DeA foreignObject {
   border-radius: var(--rs-avatar-shape);
   width: var(--avatar-width-2);
   height: var(--avatar-width-2);
   y: -9px;
   x: -2px;
 }
-#app-mount .focusLock-Ns3yie .root-1gCeng:not(.bd-addon-modal) .wrapper-3t9DeA svg {
+#app-mount .focusLock-Ns3yie .root-1gCeng:not(.bd-addon-modal) .topSection-y3p-_D .wrapper-3t9DeA svg {
   border: 8px solid var(--background-floating);
   border-radius: var(--rs-avatar-shape);
   width: var(--avatar-width);
