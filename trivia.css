@@ -513,3 +513,9 @@ a.selected-aXhQR6 .name-uJV0GL {
 .sidebar-2K8pFh .container-3w7J-x .scroller-RmtA4e::-webkit-scrollbar {
   display: none;
 }
+/*CodeBlocks Scroller (lenght)*/
+.scrollbarGhostHairline-1mSOM1 {
+  max-width: 45vw;
+  overflow-x: scroll;
+  white-space: pre !important;
+}
