@@ -47,6 +47,7 @@
 }
 .privateChannels-1nO12o .privateChannelsHeaderContainer-3NB1K1 {
   height: 30px;
+  border-radius: 0px 30% 30% 0px;
 }
 .privateChannels-1nO12o .privateChannelsHeaderContainer-3NB1K1:hover {
   background: var(--gr-one);
