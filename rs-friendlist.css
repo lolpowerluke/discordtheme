@@ -124,10 +124,10 @@
 #app-mount .peopleList-3c4jOR .wrapper-3t9DeA[style="width: 16px; height: 16px;"] img {
   -webkit-clip-path: none;
           clip-path: none;
-}
+}/*
 #app-mount .peopleList-3c4jOR [data-mobile="true"] .wrapper-3t9DeA foreignObject {
   width: calc(100% + 4px);
-}
+}*/
 #app-mount .peopleList-3c4jOR [data-mobile="true"] .wrapper-3t9DeA foreignObject[width="32"] img {
   width: calc(100% - 12px);
 }
