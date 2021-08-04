@@ -128,3 +128,68 @@
   margin-left: 0px;
   transition: margin-left 0.3s;
 }
+.sidebar-2K8pFh:hover .container-1giJp5 .connection-3KRENF .button-14-BFJ {
+  width: 32px;
+  height: 32px;
+}
+.container-1giJp5 .connection-3KRENF .button-14-BFJ,
+.actionButtons-14eAc_ .button-1YfofB {
+  width: 0px;
+  padding: 0px;
+  height: 0px;
+  min-width: 0;
+  min-height: 0;
+  transition: all 0.5s;
+}
+.sidebar-2K8pFh:hover .actionButtons-14eAc_ .button-1YfofB {
+  width: 60px;
+  padding: 0px;
+  height: 32px;
+  min-width: 60px;
+  min-height: 32px;
+  transition: all 0.5s;
+}
+.actionButtons-14eAc_ .button-1YfofB .buttonIcon-Od8mYw {
+  width: 0px;
+  height: 0px;
+  transition: all 0.5s;
+}
+.sidebar-2K8pFh:hover .actionButtons-14eAc_ .button-1YfofB .buttonIcon-Od8mYw {
+  width: 20px;
+  height: 20px;
+  transition: all 0.5s;
+}
+.container-1giJp5 .connection-3KRENF .button-14-BFJ .contents-18-Yxp svg {
+  width: 0px;
+  height: 0px;
+  transition: all 0.5s;
+}
+.sidebar-2K8pFh:hover .container-1giJp5 .connection-3KRENF .button-14-BFJ .contents-18-Yxp svg {
+  width: 20px;
+  height: 20px;
+  transition: all 0.5s;
+}
+.container-1giJp5 .connection-3KRENF .flex-1xMQg5 {
+  margin: 0px;
+}
+.sidebar-2K8pFh:hover .container-1giJp5 .connection-3KRENF .flex-1xMQg5 {
+  margin-left: 10px;
+}
+.container-1giJp5 .connection-3KRENF .subtext-3CDbHg {
+  text-overflow: clip;
+}
+.voiceTimer {
+  white-space: normal;
+}
+.ownerIcon-2NH9FM {
+  display: none;
+}
+.sidebar-2K8pFh:hover .ownerIcon-2NH9FM {
+  display: block;
+}
+.children-3rEycc .voiceCounter {
+  margin-right: 10px;
+}
+.sidebar-2K8pFh:hover .children-3rEycc .voiceCounter {
+  margin-right: 0px;
+}
