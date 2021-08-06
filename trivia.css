@@ -489,6 +489,13 @@ a.selected-aXhQR6 .name-uJV0GL {
   background-repeat: no-repeat;
   background-size: contain;
 }
+#app-mount .focusLock-Ns3yie [data-user-id="398131626695196672"] .wrapper-3t9DeA::before {
+  transform: rotate(-90deg);
+  top: 45px;
+  left: -25px;
+  width: 25px;
+  height: 25px;
+}
 /*scrollbar*/
 ::-webkit-scrollbar-thumb {
   background-color: rgb(var(--border-color-blue), var(--border-opacity-blue)) !important;
