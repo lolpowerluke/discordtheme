@@ -8,7 +8,7 @@
   display: grid;
   grid-template-columns: 260px 1fr;
   overflow: visible;
-  min-height: 400px;
+  min-height: 520px;
 }
 #app-mount .root-3QyAh1::before {
   content: "";
