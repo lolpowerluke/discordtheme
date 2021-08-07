@@ -167,3 +167,7 @@
   right: 1px !important;
   width: calc(100% - 2px) !important;
 }
+/*Membercount Strencher*/
+.MemberCount-memberCount-inner {
+  padding: 0;
+}
