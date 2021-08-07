@@ -13,3 +13,7 @@ animation: rotate .5s;
     transform: rotate(0deg);
   }
 }
+# for if you dont want pills
+[class*="pill"] {
+  display: none;
+}
