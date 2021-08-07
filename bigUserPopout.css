@@ -1,5 +1,6 @@
 /*Big User Popout*/
-.focusLock-Ns3yie {
+#app-mount .focusLock-Ns3yie {
+  max-width: 95%;
   max-height: 95%;
 }
 #app-mount .root-3QyAh1 {
@@ -207,6 +208,7 @@
   border-width: 1.2px 1.2px 1.2px 1.2px;
   transform: translateY(1px);
   transition: 0.1s;
+  margin-bottom: 2px;
 }
 #app-mount .root-3QyAh1 .userInfoSection-q_35fn + .userInfoSection-q_35fn::before {
   content: "Connections";
@@ -295,4 +297,26 @@
 }
 .button-2IFFQ4:active {
   transform: scale(0.9);
+}
+/*Small fixes realted to the screenWidth of the user*/
+@media (max-width: 1040px) {
+  .connectedAccount-2Jb-Z0 {
+    width: 90%;
+  }
+  #app-mount .root-3QyAh1  {
+    width: 95%;
+  }
+  .connectedAccount-2Jb-Z0 {
+    margin: 0px;
+    padding: 4px;
+  }
+  .connectedAccount-2Jb-Z0:first-of-type {
+    margin-top: 20px;
+  }
+  .connectedAccountOpenIcon-E5wGF4 {
+    margin-right: 10px;
+  }
+  #app-mount .root-3QyAh1 .banner-2QYc2d {
+    width: 296%;
+  }
 }
