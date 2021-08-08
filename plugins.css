@@ -173,3 +173,6 @@
   background-color: black;
   z-index: 2;
 }
+.MemberCount-memberCount-group span{
+  font-size: 1vw;
+}
