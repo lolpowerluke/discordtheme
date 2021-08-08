@@ -2,14 +2,14 @@
  * @name         Alan Walker Theme
  * @description  dark theme with Alan Walker's logo as background, make sure to add StatusEverywhere to make sure radialStatus works correctly, credit to DevilBro#4401 for settingsicons, credit to Nyria#3863 for userbuttons in the serverbar and spotifyControls, credit to Gibbu#1211 for radialstatus
  * @author       lolpowerluke
- * @version      1.0.5
+ * @version      1.0.6
  * @authorLink   https://github.com/lolpowerluke/discordtheme
  * @source       https://github.com/lolpowerluke/discordtheme/blob/main/alanWalker.theme.css
  * @website      https://github.com/lolpowerluke
 */
 /*Imports*/
   /*USRBG*/
-    @import url('https://lolpowerluke.github.io/discordtheme/USRBG.css');
+  @import url('https://lolpowerluke.github.io/discordtheme/USRBG.css');
   /*User Settings*/
     @import url('https://lolpowerluke.github.io/discordtheme/userSetting.css');
     @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css');
@@ -76,14 +76,24 @@
   --selected-pill: var(--unread-pill);
   --selcted-dm-color: rgba(255, 0, 0, 0.658);
   --bdfdb-blurple: var(--back-color-number-badges);
+  --title-gradient:linear-gradient(to right,#37b1da ,#c948cd ,#cce335, #37b1da);
   /*Main Widths and Heights*/
-  --avatar-width: 110px;
-  --avatar-width-2: 120px;
+  --avatar-width: 200px;
+  --avatar-width-2: 140px;
+  --avatar-width-3: 150px;
   /*Main Margins*/
-  --avatar-margin-2: -9px;
+  --avatar-margin-1: 4px;
+  --avatar-margin-2: -8px;
+  /*popout spacings*/
+  --spacing-1: 8px;
+  --spacing-2: 14px;
+  --spacing-3: 16px;
+  /*Connections text*/
+  --font-size-xsm: 11px;
+  --font-weight-bold: 700;
   /*unread pill*/
-  --unread-pill: blue;
-  --unread-pill-shadow: red;
+  --unread-pill: rgb(0, 0, 255);
+  --unread-pill-shadow: rgb(255, 0, 0);
   /*plugin colors*/
   /*status colors*/
   --online: rgb(0, 255, 0);
@@ -98,7 +108,7 @@
   --rs-small-width: 1px;
   --rs-medium-width: 1px;
   --rs-large-width: 1px;
-  --rs-avatar-shape: 50%;
+  --rs-avatar-shape: 100%;
   --rs-phone-visible: none;
   /*discords integrated colors*/
   --interactive-normal: white;
@@ -112,6 +122,10 @@
   --background-floating: rgb(23, 24, 105);
   --background-mentioned: rgba(255, 0, 0, 0.281);
   --info-warning-foreground: red;
+  /*server folders*/
+  --server-folder-1: rgba(0, 17, 255, 0.397);
+  --server-folder-2: rgba(4, 0, 255, 0.349);
+  /*other stuff*/
   --channeltextarea-background: rgba(0, 10, 148, 0.425);
   --user-buttons-spacing: 8px;
   --back-color: rgb(0, 0, 0);
@@ -175,5 +189,8 @@
   /*Link Preview*/
   --linkpreview-background: transparent;
   /*Version*/
-  --version-1-0-5: none;
+  --version-1-0-6: none;
+  --Blank: 0; /* An opacity for not hovered, 0 for hiding, 1 for showing (default: 0) */
+  /*other*/
+  --backdrop: hsl(0, 0%, 0%, 0.6);
 }
