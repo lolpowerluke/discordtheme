@@ -14,7 +14,7 @@
 #app-mount .root-3QyAh1::before {
   content: "";
   position: absolute;
-  top: calc(-60px - var(--spacing-xl));
+  top: calc(-60px - var(--spacing-3));
   background: var(--user-popout);
   border-radius: 10px;
   width: 100%;
@@ -29,7 +29,7 @@
 }
 #app-mount .root-3QyAh1 .topSection-y3p-_D {
   border-radius: 8px 0px 0px 8px;
-  padding: var(--spacing-xl);
+  padding: var(--spacing-3);
   border: 0;
   border-right: 1px solid rgb(var(--border-color), var(--border-opacity));
   background-color: var(--user-popout);
@@ -61,7 +61,7 @@
 /*Nametag*/
 #app-mount .root-3QyAh1 .nameTag-ECvD8P {
   position: absolute;
-  top: calc(var(--spacing-xl) / -1 - 42px);
+  top: calc(var(--spacing-3) / -1 - 42px);
   margin: 0;
 }
 /*Backdrop*/
@@ -141,14 +141,14 @@
 }
 #app-mount .root-3QyAh1 .item-PXvHYJ {
   border: none !important;
-  padding: var(--spacing) var(--spacing-lg);
+  padding: var(--spacing-1) var(--spacing-2);
 }
 #app-mount .root-3QyAh1 .item-PXvHYJ::before {
   content: "";
   width: 18px;
   height: 18px;
   background: var(--text-normal);
-  margin-right: var(--spacing);
+  margin-right: var(--spacing-1);
 }
 #app-mount .root-3QyAh1 .item-PXvHYJ[aria-controls=USER_INFO-tab]:before {
   -webkit-mask-image: url('data:image/svg+xml; utf-8,<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" /></svg>');
@@ -216,7 +216,7 @@
   font-size: var(--font-size-xsm);
   font-weight: var(--font-weight-bold);
   text-transform: uppercase;
-  margin-bottom: var(--spacing);
+  margin-bottom: var(--spacing-1);
   display: block;
 }
 .connectedAccountIcon-3_EQqg {
