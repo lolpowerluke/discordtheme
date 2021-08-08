@@ -170,4 +170,6 @@
 /*Membercount Strencher*/
 .members-1998pB .MemberCount-memberCount-wrapper.MemberCount-memberCount-sticky {
   padding: 0px;
+  background-color: black;
+  z-index: 2;
 }
