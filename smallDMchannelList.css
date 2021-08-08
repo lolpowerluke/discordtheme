@@ -195,3 +195,11 @@
 .sidebar-2K8pFh:hover .children-3rEycc .voiceCounter {
   margin-right: 0px;
 }
+/*DM-list*/
+.channel-2QD9_O {
+  margin-right: 4px;
+  transition: margin 0.75s;
+}
+.sidebar-2K8pFh:hover .channel-2QD9_O {
+  margin-right: 0px;
+}
