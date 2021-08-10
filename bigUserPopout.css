@@ -9,17 +9,7 @@
   display: grid;
   grid-template-columns: 260px 1fr;
   overflow: visible;
-  min-height: 520px;
-}
-#app-mount .root-3QyAh1::before {
-  content: "";
-  position: absolute;
-  top: calc(-60px - var(--spacing-3));
-  background: var(--user-popout);
-  border-radius: 10px;
-  width: 100%;
-  height: 60px;
-  border: 1px solid rgb(var(--border-color), var(--border-opacity));
+  min-height: 580px;
 }
 .root-1gCeng:not(.modal-qgFCbT) {
   background: var(--user-popout);
@@ -48,8 +38,8 @@
 /*3 dots + Friendbutton*/
 #app-mount .root-3QyAh1 .relationshipButtons-pUQVkf {
   position: absolute;
-  top: -76px;
-  right: -3px;
+  top: 246px;
+  left: -127px;
 }
 /*Badges*/
 #app-mount .root-3QyAh1 .badgeList-1R1WgZ {
@@ -60,13 +50,16 @@
 }
 /*Nametag*/
 #app-mount .root-3QyAh1 .nameTag-ECvD8P {
-  position: absolute;
-  top: calc(var(--spacing-3) / -1 - 42px);
-  margin: 0;
+  top: 35px;
+  margin-top: 0;
 }
 /*Backdrop*/
 #app-mount .backdrop-1wrmKB {
   background: var(--backdrop) !important;
+}
+/*UserDetails Icons*/
+.UserDetails-dates-container.UserDetails-dates-icons.UserDetails-dates-userProfile {
+  margin-top: 35px;
 }
 /*Note*/
 #app-mount .input-cIJ7To:focus {
@@ -103,6 +96,7 @@
   left: 260px;
   top: 0px;
   border-radius: 0px 8px 0px 0px;
+  background-color: var(--user-popout);
 }
 #app-mount .root-3QyAh1 .user-background {
   left: 244px;
