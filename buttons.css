@@ -62,6 +62,9 @@
   background-color: rgb(25, 0, 255);
   border-radius: 50%;
 }
+.attachButtonInner-PQjIyk svg[aria-hidden="false"] {
+  border-radius: 15px 15px 7px 15px;
+}
 .attachButton-2WznTc:hover .attachButtonPlus-jWVFah,
 .attachButtonPlus-jWVFah {
   fill: black;
