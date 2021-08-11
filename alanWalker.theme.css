@@ -133,6 +133,7 @@
   --back-selected-dm-color: black;
   --text-link: #00ff15;
   --text-link-back: black;
+  --text-focus: white;
   --back-account: black;
   --standard-account-height: 52px;
   --permission-header: rgb(0, 0, 0);
