@@ -575,3 +575,16 @@ a.selected-aXhQR6 .name-uJV0GL {
 .container-1r6BKw.themed-ANHk51 div {
   pointer-events: auto;
 }
+/*Stickers and boost status*/
+.tier-2pEkRl {
+  border: 1px solid rgb(var(--border-color), var(--border-opacity));
+}
+#app-mount .tiers-3eUU7I .tierHeaderLocked-3S508x {
+  background: transparent;
+}
+.tierHeaderContent-3t3DoO {
+  background: var(--back-color-boxes);
+}
+#app-mount .tiers-3eUU7I .tierBody-3aUxuc {
+  background-color: transparent;
+}
