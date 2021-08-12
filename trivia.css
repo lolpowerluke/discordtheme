@@ -483,8 +483,8 @@ a.selected-aXhQR6 .name-uJV0GL {
   border-bottom: 0px;
   box-shadow: 0px;
   transition: 
-    box-shadow 0.75s, 
-    border-color 1s;
+    box-shadow 0.5s, 
+    border-color 0.5s;
 }
 .containerDefault--pIXnN:hover + .CollapsibleThreads-Collapser-collapser {
   border-top: 0px;
@@ -511,6 +511,29 @@ a.selected-aXhQR6 .name-uJV0GL {
 }
 .sidebar-2K8pFh .CollapsibleThreads-Collapser-collapser:hover + .containerDefault-3tr_sE {
   margin-top: -1px;
+}
+.voiceUserSummary-2X_2vp {
+  border-radius: 8px 8px 0px 0px;
+  padding: 0px;
+  border: 1px solid rgb(var(--border-color), var(--border-opacity));
+  margin-left: 8px;
+  margin-right: 8px;
+  cursor: pointer;
+  box-shadow: 0px;
+  transition: 
+    box-shadow 0.5s, 
+    border-color 0.5s;
+}
+.voiceUserSummary-2X_2vp:hover {
+  border: 1px solid rgb(var(--border-color-blue));
+  box-shadow: inset 0 0 10px rgb(var(--border-color-blue));
+}
+.sidebar-2K8pFh .icon-1tDorc {
+  margin-left: 10px;
+}
+.voiceUserSummary-2X_2vp + .containerDefault-3tr_sE::before {
+  border-top: 0px;
+  margin-top: 1px;
 }
 /*Crown and Border*/
 #app-mount [data-user-id="398131626695196672"] .wrapper-3t9DeA::before {
