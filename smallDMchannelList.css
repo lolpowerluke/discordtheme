@@ -41,6 +41,8 @@
 .sidebar-2K8pFh:hover .barText-lmqc5O :last-child {
   margin-right: 0px;
 }
+.ownerIcon-2NH9FM,
+.sidebar-2K8pFh .size24-1HlGux .avatarContainer-3CQrif,
 .total-i6us2n:after,
 .sidebar-2K8pFh .role-2irmRk,
 .containerDefault--pIXnN .usernameFont-23TX-h,
@@ -55,6 +57,8 @@
 .searchBar-6Kv8R2 .searchBarComponent-32dTOx {
   display: none;
 }
+.sidebar-2K8pFh:hover .ownerIcon-2NH9FM,
+.sidebar-2K8pFh:hover .size24-1HlGux .avatarContainer-3CQrif,
 .sidebar-2K8pFh:hover .total-i6us2n:after,
 .container-3JKcAb .containerDefault--pIXnN .name-23GUGE,
 .sidebar-2K8pFh:hover .usernameFont-23TX-h,
@@ -182,12 +186,6 @@
 }
 .voiceTimer {
   white-space: normal;
-}
-.ownerIcon-2NH9FM {
-  display: none;
-}
-.sidebar-2K8pFh:hover .ownerIcon-2NH9FM {
-  display: block;
 }
 .children-3rEycc .voiceCounter {
   margin-right: 10px;
