@@ -30,6 +30,16 @@
   margin-bottom: 7px;
   padding: 1px 10px 5px 5px;
 }
+.categoryItemDefaultCategory-aBZ6nJ:hover {
+  background: var(--back-color-boxes-hover);
+}
+.emojiItem-14v6tW.emojiItemSelected-1aLkfV {
+  background: black;
+  border: 1px solid rgb(var(--border-color), var(--border-opacity));
+}
+.emojiPickerInExpressionPicker-3IzIcv .header-8ilj5e {
+  padding-bottom: 5px;
+}
 .header-2k4I2o {
   padding: 5px 10px 5px 5px !important;
 }
