@@ -19,7 +19,7 @@
 }
 #app-mount .root-3QyAh1 .topSection-y3p-_D {
   border-radius: 8px 0px 0px 8px;
-  padding: var(--spacing-3);
+  padding: 16px;
   border: 0;
   border-right: 1px solid rgb(var(--border-color), var(--border-opacity));
   background-color: var(--user-popout);
@@ -135,14 +135,14 @@
 }
 #app-mount .root-3QyAh1 .item-PXvHYJ {
   border: none !important;
-  padding: var(--spacing-1) var(--spacing-2);
+  padding: 8px 14px;
 }
 #app-mount .root-3QyAh1 .item-PXvHYJ::before {
   content: "";
   width: 18px;
   height: 18px;
   background: var(--text-normal);
-  margin-right: var(--spacing-1);
+  margin-right: 8px;
 }
 #app-mount .root-3QyAh1 .item-PXvHYJ[aria-controls=USER_INFO-tab]:before {
   -webkit-mask-image: url('data:image/svg+xml; utf-8,<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" /></svg>');
@@ -162,32 +162,31 @@
 }
 /*Avatar*/
 .focusLock-Ns3yie .avatar-AvHqJA {
-  margin-top: 7px;
   border: 1px solid rgb(var(--border-color), var(--border-opacity));
-  border-bottom: 1px solid black;
-  border-right: 1px solid black;
-  transform: rotate(45deg);
   position: relative;
   top: 0;
   left: 0;
   width: 228px !important;
   height: 228px !important;
+  border-radius: 20px;
 }
 #app-mount .focusLock-Ns3yie .root-1gCeng:not(.bd-addon-modal) .topSection-y3p-_D .wrapper-3t9DeA foreignObject {
-  border-radius: var(--rs-avatar-shape);
-  width: var(--avatar-width-2);
-  height: var(--avatar-width-2);
-  y: -9px;
-  x: -2px;
+  border-radius: 20px;
+  width: 130px;
+  height: 130px;
+  -webkit-mask: none;
+  mask: none;
 }
 #app-mount .focusLock-Ns3yie .root-1gCeng:not(.bd-addon-modal) .topSection-y3p-_D .wrapper-3t9DeA svg {
-  border: 8px solid var(--background-floating);
-  border-radius: var(--rs-avatar-shape);
-  width: var(--avatar-width);
-  height: var(--avatar-width);
-  margin-top: calc(var(--avatar-margin-1) - 2px);
-  margin-left: var(--avatar-margin-1);
-  transform: rotate(-45deg);
+  width: 210px;
+  height: 210px;
+  -webkit-mask: none;
+  mask: none;
+  left: 14px;
+}
+#app-mount .focusLock-Ns3yie .header-4zuFdR rect {
+  x: 105;
+  y: 105;
 }
 /*Connections*/
 .connectedAccount-2Jb-Z0 {
@@ -207,10 +206,10 @@
 #app-mount .root-3QyAh1 .userInfoSection-q_35fn + .userInfoSection-q_35fn::before {
   content: "Connections";
   color: var(--text-normal);
-  font-size: var(--font-size-xsm);
+  font-size: 11px;
   font-weight: var(--font-weight-bold);
   text-transform: uppercase;
-  margin-bottom: var(--spacing-1);
+  margin-bottom: 8px;
   display: block;
 }
 .connectedAccountIcon-3_EQqg {
