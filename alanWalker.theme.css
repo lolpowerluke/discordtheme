@@ -25,18 +25,6 @@
     @import url('https://lolpowerluke.github.io/discordtheme/buttons.css');
   /*Plugins*/
     @import url('https://lolpowerluke.github.io/discordtheme/plugins.css');
-  /*radialStatus*/
-    @import url('https://lolpowerluke.github.io/discordtheme/radialStatus.css');/*
-    @import url('https://lolpowerluke.github.io/discordtheme/rs-bigUserPopout.css');
-    @import url('https://lolpowerluke.github.io/discordtheme/rs-dmlist.css');
-    @import url('https://lolpowerluke.github.io/discordtheme/rs-friendlist.css');
-    @import url('https://lolpowerluke.github.io/discordtheme/rs-memberlist.css');
-    @import url('https://lolpowerluke.github.io/discordtheme/rs-playinglist.css');
-    @import url('https://lolpowerluke.github.io/discordtheme/rs-settingsAvatar.css');
-    @import url('https://lolpowerluke.github.io/discordtheme/rs-smallUserPopout.css');
-    @import url('https://lolpowerluke.github.io/discordtheme/rs-userArea.css');
-    @import url('https://lolpowerluke.github.io/discordtheme/rs-chat.css');*/
-    @import url("https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css");
   /*Other Stuff*/
     @import url('https://lolpowerluke.github.io/discordtheme/version.css');
     @import url('https://lolpowerluke.github.io/discordtheme/trivia.css');
@@ -95,21 +83,17 @@
   --unread-pill: rgb(0, 0, 255);
   --unread-pill-shadow: rgb(255, 0, 0);
   /*plugin colors*/
+  --permission-header: rgb(0, 0, 0);
+  --permission-role-side: rgba(0, 0, 0, 0.575);
+  --permission-perm-side: rgba(0, 0, 0, 0.678);
+  --image-utils-back: black;
+  --image-utils-border: rgb(0, 26, 255);
   /*status colors*/
   --online: rgb(0, 255, 0);
   --idle: rgb(255, 166, 0);
   --dnd: rgb(255, 0, 0);
   --offline: #747f8d;
   --streaming: #a068ff;
-  /*Radial Status Stuff*/
-  --rs-small-spacing: 1px;
-  --rs-medium-spacing: 2px;
-  --rs-large-spacing: 1px;
-  --rs-small-width: 1px;
-  --rs-medium-width: 1px;
-  --rs-large-width: 1px;
-  --rs-avatar-shape: 100%;
-  --rs-phone-visible: none;
   /*discords integrated colors*/
   --interactive-normal: white;
   --interactive-active: white;
@@ -136,9 +120,6 @@
   --text-focus: white;
   --back-account: black;
   --standard-account-height: 52px;
-  --permission-header: rgb(0, 0, 0);
-  --permission-role-side: rgba(0, 0, 0, 0.575);
-  --permission-perm-side: rgba(0, 0, 0, 0.678);
   --popout-header: rgba(0, 4, 255, 0.384);
   --popout-scroller: rgba(0, 4, 255, 0.247);
   --create-server: rgba(0, 0, 0, 0.911);
@@ -162,8 +143,6 @@
   --back-date-viewer: rgba(25, 0, 255, 0.363);
   --typing-border: red;
   --border-zoom: red;
-  --image-utils-back: black;
-  --image-utils-border: rgb(0, 26, 255);
   --red: red;
   --red-2: rgba(255, 0, 0, 0.411);
   --green: #47b543;
