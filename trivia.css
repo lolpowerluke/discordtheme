@@ -611,3 +611,7 @@ a.selected-aXhQR6 .name-uJV0GL {
 #app-mount .tiers-3eUU7I .tierBody-3aUxuc {
   background-color: transparent;
 }
+/*Update notice plugins*/
+.colorInfo-2URYW5 {
+  background: var(--back-color-boxes);
+}
