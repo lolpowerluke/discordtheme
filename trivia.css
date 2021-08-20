@@ -615,3 +615,7 @@ a.selected-aXhQR6 .name-uJV0GL {
 .colorInfo-2URYW5 {
   background: var(--back-color-boxes);
 }
+/*Nitro Gift Scroller Issue*/
+.small-3iVZYw {
+  max-height: unset;
+}
