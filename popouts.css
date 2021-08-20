@@ -353,3 +353,34 @@
 .emptyPlaceholder-1zh-Eu {
   background-color: black;
 }
+/*Chat AutoComplete Popup*/
+#app-mount .autocomplete-1vrmpx,
+.wrapper-uf3cnO {
+  background: rgb(0, 0, 0, 0);
+}
+.autocomplete-1vrmpx > div > .scroller-3gAZLs {
+  border-radius: 8px;
+  background-color: var(--user-popout);
+  margin-left: 5px;
+  border: 1px solid rgb(var(--border-color), var(--border-opacity));
+}
+.autocomplete-1vrmpx .wrapper-2Gsate {
+  margin-top: 0px;
+  background-color: var(--user-popout);
+}
+.autocomplete-1vrmpx .wrapper-uf3cnO {
+  padding-bottom: 0px;
+  margin-bottom: 2px;
+}
+.autocomplete-1vrmpx .categoryHeader-O1zU94 {
+  background-color: var(--user-popout);
+}
+.autocomplete-1vrmpx .autocompleteRow-2OthDa .selected-1Tbx07 {
+  background-color: var(--back-color-boxes-hover);
+}
+.autocomplete-1vrmpx .wrapper-2siovq.selected-3xBBKs {
+  background-color: var(--back-color-boxes-hover);
+}
+.autocomplete-1vrmpx .wrapper-2siovq.selected-3xBBKs:hover {
+  background-color: var(--back-color-boxes);
+}
