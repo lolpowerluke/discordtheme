@@ -183,6 +183,18 @@
 .colorDefault-2K3EoJ.focused-3afm-j {
   background-color: red;
 }
+.menu-3sdvDG .focused-3afm-j [aria-hidden="false"].icon-LYJorE {
+  color: white;
+}
+.menu-3sdvDG .focused-3afm-j [aria-hidden="false"].icon-LYJorE {
+  color: white;
+}
+.menu-3sdvDG .focused-3afm-j.colorDefault-2K3EoJ .checkbox-3s5GYZ {
+  color: var(--user-popout);
+}
+.colorDefault-2K3EoJ .checkbox-3s5GYZ {
+  color: var(--back-color-boxes-hover);
+}
 [aria-hidden="false"].icon-LYJorE {
   color: red;
 }
