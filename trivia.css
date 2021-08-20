@@ -619,3 +619,14 @@ a.selected-aXhQR6 .name-uJV0GL {
 .small-3iVZYw {
   max-height: unset;
 }
+/*Older Messages Bar*/
+.jumpToPresentBar-G1R9s6 {
+  background-color: var(--user-popout);
+  border: 1px solid rgb(var(--border-color), var(--border-opacity));
+  min-height: unset;
+  height: 15px;
+  margin-bottom: 8px;
+}
+.jumpToPresentBar-G1R9s6 .barButtonBase-2uLO1z {
+  margin-top: 7px;
+}
