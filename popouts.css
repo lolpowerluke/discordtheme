@@ -9,11 +9,31 @@
   background-color: var(--create-server);
 }
 /*Emoji & Gif */
+.contentWrapper-SvZHNd {
+  overflow: visible;
+}
 .nav-7UD0KD {
   background-color: var(--back-header-gifemoji);
-  height: 24px;
   border-radius: 10px;
   border: 1px solid rgba(var(--border-color), var(--border-opacity));
+  padding: 0px;
+  transform: rotate(90deg);
+  height: 70px;
+  width: 395px;
+  margin-left: -242px;
+  margin-top: 194px;
+}
+.navItem-3Wp_oJ {
+  transform: rotate(-90deg);
+  margin-top: -17px;
+  width: 70px;
+}
+.navItem-3Wp_oJ:not(:first-of-type) {
+  margin-left: -25px;
+}
+.navList-2UtuhC {
+  margin-top: 40px;
+  width: fit-content;
 }
 .wrapper-2Gsate {
   background-color: var(--back-side-gifemoji);
@@ -65,9 +85,12 @@
 }
 .navButtonActive-1MkytQ {
   background-color: rgba(0, 0, 0, 0.76);
-  border-left: 1px solid rgba(var(--border-color), var(--border-opacity));
-  border-right: 1px solid rgba(var(--border-color), var(--border-opacity));
   border-radius: 0px;
+  border-top: 1px solid rgb(var(--border-color), var(--border-opacity));
+  border-bottom: 1px solid rgb(var(--border-color), var(--border-opacity));
+}
+.navButton-2gQCx- {
+  width: 100%;
 }
 .layer-v9HyYc .contentWrapper-SvZHNd .wrapper-1rqM3x .wrapper-2Gsate {
   margin-top: 3px;
