@@ -399,23 +399,32 @@
   background-color: black;
 }
 /*Chat AutoComplete Popup*/
-#app-mount .autocomplete-1vrmpx,
 .wrapper-uf3cnO {
   background: rgb(0, 0, 0, 0);
+}
+#app-mount .autocomplete-1vrmpx {
+  background: var(--user-popout);
+  border: 1px solid rgb(var(--border-color), var(--border-opacity));
+  border-radius: 8px;
 }
 .autocomplete-1vrmpx > div > .scroller-3gAZLs {
   border-radius: 8px;
   background-color: var(--user-popout);
-  margin-left: 5px;
-  border: 1px solid rgb(var(--border-color), var(--border-opacity));
+  margin: 0;
 }
-.autocomplete-1vrmpx .wrapper-2Gsate {
+#app-mount .autocomplete-1vrmpx .wrapper-2Gsate {
   margin-top: 0px;
   background-color: var(--user-popout);
+  height: 100%;
+  margin-bottom: -3px;
+  border: 0;
+  border-radius: 0px;
+  border-right: 1px solid rgb(var(--border-color), var(--border-opacity));
+
 }
 .autocomplete-1vrmpx .wrapper-uf3cnO {
   padding-bottom: 0px;
-  margin-bottom: 2px;
+  margin-bottom: 0px;
 }
 .autocomplete-1vrmpx .categoryHeader-O1zU94 {
   background-color: var(--user-popout);
