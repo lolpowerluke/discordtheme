@@ -271,7 +271,7 @@
 }
 /*Search*/
 .container-3ayLPN {
-  background-color: black !important;
+  background-color: var(--user-popout) !important;
   border: 1px solid rgb(var(--border-color-blue));
 }
 /*date picker*/
@@ -280,12 +280,10 @@
 }
 #app-mount .calendarPicker-2yf6Ci .react-datepicker__day {
   border: 1px solid rgb(var(--border-color), var(--border-opacity));
-  border-bottom: 0px solid black;
-  border-right: 0px solid black;
+  border-bottom: 0px solid var(--user-popout);
+  border-right: 0px solid var(--user-popout);
   box-shadow: 0;
-  transition: 
-    box-shadow 0.75s, 
-    border-color 1s;
+  transition: box-shadow 0.5s;
 }
 #app-mount .react-datepicker__month {
   border-radius: 0px;
@@ -348,6 +346,18 @@
   border-radius: 0px 5px 0px 5px;
   margin-top: 1px;
   margin-right: 1px;
+}
+#app-mount .react-datepicker__week:hover + .react-datepicker__week .react-datepicker__day {
+  border-top-color: var(--user-popout);
+}
+#app-mount  .react-datepicker__week:hover .react-datepicker__day {
+  border-bottom: 1px solid rgb(var(--border-color), var(--border-opacity));
+}
+#app-mount  .react-datepicker__week:hover .react-datepicker__day:hover {
+  border-bottom-color: rgb(var(--border-color-blue));
+}
+.calendarPicker-2yf6Ci .react-datepicker__week:hover .react-datepicker__day.react-datepicker__day--selected:after {
+  margin-bottom: -1px;
 }
 /*Pins (personal and public)*/
 [aria-label="Pinned Messages"] .messagesPopoutWrap-1MQ1bW {
