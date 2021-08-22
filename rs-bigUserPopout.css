@@ -43,7 +43,7 @@
   rx: var(--rs-avatar-shape);
   ry: var(--rs-avatar-shape);
   fill: transparent !important;
-  stroke-width: var(--rs-small-width);
+  stroke-width: 1px;
 }
 #app-mount .focusLock-Ns3yie .topSection-y3p-_D [data-status="online"] .wrapper-3t9DeA > svg > rect {
   stroke: var(--rs-online-color);
@@ -106,8 +106,8 @@
   y: -76;
 }
 #app-mount .focusLock-Ns3yie .topSection-y3p-_D .wrapper-3t9DeA[style*="120px"] rect {
-  width: var(--avatar-width-2);
-  height: var(--avatar-width-2);
+  width: 130px;
+  height: 130px;
   stroke-width: var(--rs-large-width);
 }
 #app-mount .focusLock-Ns3yie .topSection-y3p-_D .wrapper-3t9DeA[style*="120px"] img {
@@ -138,10 +138,7 @@
   width: 14px;
   height: 18px;
   top: 75%;
-}/*
-#app-mount .focusLock-Ns3yie .topSection-y3p-_D [data-mobile="true"] .wrapper-3t9DeA foreignObject[width="120"] img {
-  width: calc(100% - 22px);
-}*/
+}
 #app-mount .focusLock-Ns3yie .topSection-y3p-_D [data-mobile="true"] .wrapper-3t9DeA foreignObject[width="120"]:after {
   width: 24px;
   height: 20px;
@@ -198,8 +195,4 @@
 }
 #app-mount .focusLock-Ns3yie .topSection-y3p-_D .wrapper-3t9DeA[style*="40px"] > svg > svg rect {
   display: none;
-}
-#app-mount .focusLock-Ns3yie .avatarWrapper .wrapper-3t9DeA[style*="120px"] rect {
-  y: -8px;
-  x: -2px;
 }
