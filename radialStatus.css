@@ -1,12 +1,3 @@
-:root {
-  --rs-online-color: var(--online);
-  --rs-idle-color: var(--idle);
-  --rs-dnd-color: var(--dnd);
-  --rs-offline-color: var(--offline);
-  --rs-invisible-color: var(--offline);
-  --rs-streaming-color: var(--streaming);
-  --rs-phone-color: var(--online);
-}
 /*Small Fixes*/
 #app-mount .peopleListItem-2nzedh .avatarWrapper .wrapper-3t9DeA foreignObject[mask*=mobile] {
   width: 40px;

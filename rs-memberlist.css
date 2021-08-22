@@ -46,22 +46,22 @@
   stroke-width: var(--rs-small-width);
 }
 #app-mount .membersWrap-2h-GB4 [data-status="online"] .wrapper-3t9DeA rect {
-  stroke: var(--rs-online-color);
+  stroke: var(--online);
 }
 #app-mount .membersWrap-2h-GB4 [data-status="idle"] .wrapper-3t9DeA rect {
-  stroke: var(--rs-idle-color);
+  stroke: var(--idle);
 }
 #app-mount .membersWrap-2h-GB4 [data-status="dnd"] .wrapper-3t9DeA rect {
-  stroke: var(--rs-dnd-color);
+  stroke: var(--dnd);
 }
 #app-mount .membersWrap-2h-GB4 [data-status="streaming"] .wrapper-3t9DeA rect {
-  stroke: var(--rs-streaming-color);
+  stroke: var(--streaming);
 }
 #app-mount .membersWrap-2h-GB4 [data-status="offline"] .wrapper-3t9DeA rect {
-  stroke: var(--rs-offline-color);
+  stroke: var(--offline);
 }
 #app-mount .membersWrap-2h-GB4 [data-status="invisible"] .wrapper-3t9DeA rect {
-  stroke: var(--rs-invisible-color);
+  stroke: var(--offline);
 }
 #app-mount .membersWrap-2h-GB4 .wrapper-3t9DeA rect[x="16"] {
   width: 24px;
@@ -158,11 +158,11 @@
   top: 50%;
   transform: translateY(-50%);
   right: 0;
-  background: var(--rs-phone-color, var(--rs-online-color));
+  background: var(--online);
   z-index: 1;
 }
 #app-mount .membersWrap-2h-GB4 [data-mobile="true"] .wrapper-3t9DeA foreignObject + rect {
-  stroke: var(--rs-phone-color, var(--rs-online-color));
+  stroke: var(--online);
 }
 #app-mount .membersWrap-2h-GB4 [data-mobile="true"] .message-2qnXI6 .wrapper-3t9DeA foreignObject {
   width: calc(100% + 3px);
