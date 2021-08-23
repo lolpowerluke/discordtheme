@@ -623,3 +623,24 @@ a.selected-aXhQR6 .name-uJV0GL {
 .jumpToPresentBar-G1R9s6 .barButtonBase-2uLO1z {
   margin-top: 7px;
 }
+/*FriendList Top Buttons*/
+.topPill-30KHOu .item-PXvHYJ:not([aria-controls="ADD_FRIEND-tab"]) {
+  margin: 0;
+  border: 1px solid rgb(var(--border-color), var(--border-opacity));
+  border-right: 0px;
+  border-radius: 0px;
+}
+#app-mount .topPill-30KHOu .item-PXvHYJ:not([aria-controls="ADD_FRIEND-tab"]):hover {
+  border-right: 1px solid;
+  border-color: rgb(var(--border-color-blue));
+}
+.topPill-30KHOu .item-PXvHYJ:not([aria-controls="ADD_FRIEND-tab"]):nth-last-child(2) {
+  border-radius: 0px 20px 20px 0px;
+  border-right: 1px solid rgb(var(--border-color), var(--border-opacity));
+}
+.topPill-30KHOu .item-PXvHYJ:not([aria-controls="ADD_FRIEND-tab"]):first-child {
+  border-radius: 20px 0px 0px 20px;
+}
+.topPill-30KHOu .item-PXvHYJ:not([aria-controls="ADD_FRIEND-tab"]):hover + .item-PXvHYJ:not([aria-controls="ADD_FRIEND-tab"]) {
+  border-left: 0px;
+}
