@@ -52,7 +52,6 @@
 .sidebar-2K8pFh .actions-aUdUfC,
 .CollapsibleThreads-Collapser-collapser .colorStandard-2KCXvj,
 .containerDefault--pIXnN.selected-3LIHYU .iconItem-F7GRxr,
-.containerDefault--pIXnN .name-23GUGE,
 .RestoreDirectMessages-style-divider,
 .searchBar-6Kv8R2 .searchBarComponent-32dTOx {
   display: none;
@@ -66,7 +65,6 @@
 .sidebar-2K8pFh:hover .icons-1dXQdz,
 .sidebar-2K8pFh:hover .CollapsibleThreads-Collapser-collapser .colorStandard-2KCXvj,
 .containerDefault--pIXnN.selected-3LIHYU:hover .iconItem-F7GRxr,
-.sidebar-2K8pFh:hover .containerDefault--pIXnN .name-23GUGE,
 .sidebar-2K8pFh:hover .RestoreDirectMessages-style-divider,
 .sidebar-2K8pFh:hover .searchBar-6Kv8R2 .searchBarComponent-32dTOx {
   display: block;
@@ -192,6 +190,15 @@
 }
 .sidebar-2K8pFh:hover .children-3rEycc .voiceCounter {
   margin-right: 0px;
+}
+/*Channel list*/
+.containerDefault--pIXnN .name-23GUGE {
+  margin-left: -240px;
+  transition: margin-left 0.5s;
+}
+
+.sidebar-2K8pFh:hover .containerDefault--pIXnN .name-23GUGE {
+  margin-left: 0;
 }
 /*DM-list*/
 .channel-2QD9_O {
