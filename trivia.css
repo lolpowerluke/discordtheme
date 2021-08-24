@@ -560,7 +560,7 @@ a.selected-aXhQR6 .name-uJV0GL {
 }
 [data-user-id="398131626695196672"] .username-1A8OIy span,
 [data-user-id="398131626695196672"] .messageContent-2qWWxC span:not(.timestamp-3ZCmNB) {
-  color: blue !important;
+  color: blue;
 }
 /*scrollbar*/
 ::-webkit-scrollbar-thumb {
