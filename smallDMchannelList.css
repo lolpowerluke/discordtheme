@@ -193,12 +193,13 @@
 }
 /*Channel list*/
 .containerDefault--pIXnN .name-23GUGE {
-  margin-left: -240px;
-  transition: margin-left 0.2s;
+  margin-left: 15px;
+  opacity: 0;
+  transition: margin-left 0.2s, opacity 0.5s;
 }
-
 .sidebar-2K8pFh:hover .containerDefault--pIXnN .name-23GUGE {
   margin-left: 0;
+  opacity: 1;
 }
 /*DM-list*/
 .channel-2QD9_O {
